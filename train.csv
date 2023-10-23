@@ -1,0 +1,834 @@
+имя файла данных,Folder Path,пол,полных лет,пациент off/on,определенный диагноз врачом (0-5)
+raw_data_d786d645-db38-11ec-b494-e82aea2c97f4.csv,кинетический тремор,мужской,52,off,1
+raw_data_bdcba44f-0d6a-11ed-8857-b6da2cf29e9d.csv,Постуральный тремор,мужской,78,on,0
+raw_data_750c0f09-b09a-11ec-9699-58a023d3f6d9.csv,Постуральный тремор,мужской,71,on,0
+raw_data_d90846c3-3969-11ed-a96d-b469216ca443.csv,кулак,мужской,23,off,1
+raw_data_c27fbeb3-1882-11ed-95c1-b469216ca443.csv,кинетический тремор,мужской,23,off,2
+raw_data_af753f25-2ce9-11ed-b9a2-e82aea2c97f4.csv,постукивание пальцами,мужской,70,off,3
+raw_data_81759aa9-5442-11ed-854e-e82aea2c97f4.csv,кинетический тремор,мужской,70,on,0
+raw_data_834df143-12ec-11ed-a822-c86000e163af.csv,кинетический тремор,женский,81,off,1
+raw_data_9b5d3b6f-e007-11ec-8a7c-b469216ca443.csv,Постуральный тремор,мужской,65,on,2
+raw_data_a2676e97-3e3b-11ed-9273-e82aea2c97f4.csv,кулак,женский,64,on,0
+raw_data_ec8e77af-a8fe-11ec-8c5c-b469216ca443.csv,кулак,женский,23,off,3
+raw_data_c7a6ba27-2ffc-11ed-bdf0-c86000e163af.csv,кинетический тремор,мужской,63,off,2
+raw_data_50a1a7ef-b3e9-11ec-82ad-e82aea2c97f4.csv,постукивание пальцами,мужской,52,off,1
+raw_data_d5814129-e870-11ec-8acd-fd71ae554d63.csv,Пронация и супинация кисти,женский,56,off,3
+raw_data_b77d09f1-ee2a-11ec-ae7f-94de80136624.csv,кулак,женский,64,on,1
+raw_data_efcc0777-f125-11ec-b4cc-b469216ca443.csv,Постуральный тремор,мужской,60,off,1
+raw_data_9ac5319d-b0d9-11ec-ae2e-e82aea2c97f4.csv,кинетический тремор,мужской,44,off,3
+raw_data_82c036fd-e060-11ec-b8c1-ef54fcc0d655.csv,кулак,женский,63,off,3
+raw_data_ba87ba95-a5c0-11ec-b9b8-b469216ca443.csv,кулак,женский,23,off,1
+raw_data_12b59d15-1231-11ed-b8e0-b469216ca443.csv,Постуральный тремор,мужской,62,off,3
+raw_data_a2c7fb0f-2f67-11ed-8b72-e82aea2c97f4.csv,постукивание пальцами,женский,66,on,2
+raw_data_1878235c-2dd5-11ed-b99b-e82aea2c97f4.csv,кинетический тремор,мужской,74,on,0
+raw_data_bc9fa989-c14d-11ec-aa73-e82aea2c97f4.csv,кулак,женский,69,off,1
+raw_data_5f9e7e8f-a8d3-11ec-8b77-b469216ca443.csv,Постуральный тремор,мужской,23,off,3
+raw_data_5902300f-4559-11ed-b6f4-e82aea2c97f4.csv,Постуральный тремор,женский,67,on,0
+raw_data_caa21721-3277-11ed-a030-c86000e163af.csv,кулак,женский,65,off,2
+raw_data_488e2a27-544a-11ed-9f6e-e82aea2c97f4.csv,Постуральный тремор,мужской,62,off,0
+raw_data_9297b64d-a9a1-11ec-92a3-b469216ca443.csv,кинетический тремор,мужской,23,off,0
+raw_data_5bb0700b-c6e8-11ec-af9a-e82aea2c97f4.csv,Пронация и супинация кисти,женский,64,off,1
+raw_data_80c83c65-e86c-11ec-8d35-fd71ae554d63.csv,постукивание пальцами,женский,63,off,2
+raw_data_8f021df0-237a-11ed-9979-b469216ca443.csv,Пронация и супинация кисти,мужской,23,off,2
+raw_data_77f4bd1b-1de6-11ed-bc82-b469216ca443.csv,Постуральный тремор,мужской,23,on,1
+raw_data_a2f9b7be-4aee-11ed-9202-e82aea2c97f4.csv,Постуральный тремор,мужской,64,on,0
+raw_data_3195b1b1-db49-11ec-bd24-e82aea2c97f4.csv,кулак,мужской,66,on,2
+raw_data_e6106cb1-c53f-11ec-b4b1-e82aea2c97f4.csv,кинетический тремор,мужской,60,on,0
+raw_data_6747b36b-81f1-11ed-83b8-e82aea2c97f4.csv,кинетический тремор,мужской,64,off,1
+raw_data_1c67916f-a989-11ec-ae4d-58a023d3f6d9.csv,Пронация и супинация кисти,женский,74,on,1
+raw_data_5d10fbe1-f6c0-11ec-ba22-e82aea2c97f4.csv,Постуральный тремор,женский,73,off,3
+raw_data_4033b3a7-2671-11ed-a6b9-b474d352caff.csv,Пронация и супинация кисти,мужской,71,off,3
+raw_data_b6c30503-a8fe-11ec-9368-b469216ca443.csv,Постуральный тремор,женский,23,off,2
+raw_data_907db555-e87f-11ec-ba04-b469216ca443.csv,Постуральный тремор,женский,60,on,1
+raw_data_898d5fb7-2452-11ed-8b52-e82aea2c97f4.csv,кулак,мужской,72,on,3
+raw_data_cfa563e1-2205-11ed-a68f-b469216ca443.csv,постукивание пальцами,мужской,23,off,3
+raw_data_7571a585-2915-11ed-aeb7-c86000e163af.csv,кулак,мужской,71,off,3
+raw_data_43cd0143-2f68-11ed-9b18-e82aea2c97f4.csv,Постуральный тремор,женский,66,on,0
+raw_data_fec1bee5-3335-11ed-b8ff-c86000e163af.csv,постукивание пальцами,мужской,57,on,2
+raw_data_ca6ee4c3-4579-11ed-b38a-e82aea2c97f4.csv,кулак,мужской,72,on,2
+raw_data_56a75eab-250c-11ed-9d0b-c86000e163af.csv,кинетический тремор,мужской,70,off,3
+raw_data_a3e45f67-8040-11ed-9b50-e82aea2c97f4.csv,Постуральный тремор,мужской,23,off,3
+raw_data_8162297b-2f58-11ed-85ac-c86000e163af.csv,кулак,мужской,70,off,1
+raw_data_cdfac98d-21e7-11ed-a6ab-b469216ca443.csv,кулак,женский,23,off,4
+raw_data_31ac4695-22a3-11ed-b19e-b474d352caff.csv,кинетический тремор,женский,23,on,1
+raw_data_24972d1d-3976-11ed-9874-c86000e163af.csv,постукивание пальцами,мужской,51,on,3
+raw_data_f7e7366f-b6da-11ec-9d55-58a023d3f6d9.csv,Постуральный тремор,мужской,72,on,0
+raw_data_9f40dd5f-7d1a-11ed-8cb3-e82aea2c97f4.csv,кинетический тремор,женский,74,off,1
+raw_data_9d748669-b6da-11ec-97f6-58a023d3f6d9.csv,Пронация и супинация кисти,мужской,72,on,4
+raw_data_1691c50f-a98a-11ec-a4da-58a023d3f6d9.csv,Постуральный тремор,женский,74,on,1
+raw_data_d78c0be7-c6e9-11ec-8945-e82aea2c97f4.csv,кулак,женский,64,off,2
+raw_data_d69dae8c-2cf7-11ed-a08f-e82aea2c97f4.csv,кинетический тремор,женский,78,off,0
+raw_data_e75e7533-b096-11ec-871a-58a023d3f6d9.csv,кулак,мужской,71,on,1
+raw_data_093af1df-34ca-11ed-b504-e82aea2c97f4.csv,кинетический тремор,мужской,50,on,0
+raw_data_68140e15-b3e8-11ec-bf6d-e82aea2c97f4.csv,Постуральный тремор,мужской,52,off,2
+raw_data_2c295978-6fcc-11ed-a4be-e82aea2c97f4.csv,Постуральный тремор,мужской,83,off,0
+raw_data_4226e7e5-2dd4-11ed-a5c0-e82aea2c97f4.csv,кулак,мужской,74,on,0
+raw_data_4e7aa465-6a49-11ed-99e1-e82aea2c97f4.csv,Постуральный тремор,мужской,62,on,0
+raw_data_580778ce-76e0-11ed-b722-e82aea2c97f4.csv,кинетический тремор,женский,72,off,0
+raw_data_55f5ca21-7c5f-11ed-b3d8-e82aea2c97f4.csv,кинетический тремор,мужской,67,on,1
+raw_data_48ef2f65-34c9-11ed-8ff5-e82aea2c97f4.csv,кулак,мужской,50,on,2
+raw_data_ce090f8c-4aee-11ed-b83f-e82aea2c97f4.csv,кинетический тремор,мужской,64,on,0
+raw_data_cb365f4d-8040-11ed-81ce-e82aea2c97f4.csv,постукивание пальцами,мужской,23,off,2
+raw_data_e61a42a7-e643-11ec-b083-e82aea2c97f4.csv,постукивание пальцами,мужской,66,on,2
+raw_data_dfb2e683-2549-11ed-964f-88a4c211973d.csv,постукивание пальцами,0,0,on,0
+raw_data_d40e5009-2908-11ed-8ffa-e82aea2c97f4.csv,Постуральный тремор,женский,23,off,2
+raw_data_f5d91ee1-f155-11ec-8d88-e82aea2c97f4.csv,постукивание пальцами,женский,72,off,3
+raw_data_9a758127-81d4-11ed-a42c-e82aea2c97f4.csv,Постуральный тремор,женский,74,off,0
+raw_data_fb19fe54-bef5-11ec-b423-b469216ca443.csv,кулак,женский,23,off,2
+raw_data_b2d3e5c8-1f82-11ed-9a22-b469216ca443.csv,кулак,мужской,23,off,2
+raw_data_d6a3a6cd-5f3d-11ed-a555-e82aea2c97f4.csv,постукивание пальцами,мужской,61,off,0
+raw_data_9b8d3b89-3e44-11ed-8e4a-e82aea2c97f4.csv,кулак,мужской,58,off,0
+raw_data_13f0dc37-c14c-11ec-a230-e82aea2c97f4.csv,кулак,женский,69,off,3
+raw_data_9c707eac-2453-11ed-8551-e82aea2c97f4.csv,Постуральный тремор,мужской,72,on,1
+raw_data_a5da859b-6a48-11ed-99e6-e82aea2c97f4.csv,постукивание пальцами,мужской,62,on,1
+raw_data_848bcb7d-3d79-11ed-b65b-b469216ca443.csv,кулак,женский,23,off,0
+raw_data_e92a2817-2f74-11ed-a342-e82aea2c97f4.csv,кулак,мужской,23,off,3
+raw_data_ebf441e7-afe9-11ec-b6b4-58a023d3f6d9.csv,постукивание пальцами,мужской,68,on,1
+raw_data_4d6b5173-3969-11ed-820f-b469216ca443.csv,Пронация и супинация кисти,мужской,23,off,4
+raw_data_42e5a861-7c5e-11ed-a04e-e82aea2c97f4.csv,постукивание пальцами,мужской,67,on,2
+raw_data_cfd2e6a1-2d0c-11ed-9abb-e82aea2c97f4.csv,Постуральный тремор,мужской,65,off,2
+raw_data_cb84bac9-ee2b-11ec-9c5c-94de80136624.csv,Постуральный тремор,женский,64,on,0
+raw_data_4f6ae620-3e3b-11ed-8e9e-e82aea2c97f4.csv,постукивание пальцами,женский,64,on,2
+raw_data_a4dfdc25-c6e8-11ec-82ef-e82aea2c97f4.csv,Постуральный тремор,женский,64,off,1
+raw_data_3cc8e89b-76d7-11ed-8194-e82aea2c97f4.csv,постукивание пальцами,мужской,67,off,1
+raw_data_6073130f-2f5f-11ed-9268-e82aea2c97f4.csv,Постуральный тремор,мужской,74,off,0
+raw_data_3f99b3a1-455f-11ed-bbf9-e82aea2c97f4.csv,кинетический тремор,мужской,74,on,0
+raw_data_e61331e1-db58-11ec-b594-e82aea2c97f4.csv,кулак,женский,67,on,3
+raw_data_c8a259d5-2d04-11ed-942e-e82aea2c97f4.csv,постукивание пальцами,женский,78,off,3
+raw_data_a13a3ddb-3976-11ed-b1e3-c86000e163af.csv,Постуральный тремор,мужской,51,on,3
+raw_data_4e281a71-a5c0-11ec-b00a-b469216ca443.csv,Постуральный тремор,женский,23,off,1
+raw_data_ee383c97-2ce9-11ed-86ba-e82aea2c97f4.csv,кулак,мужской,70,off,3
+raw_data_bc6a9e3c-244a-11ed-a2d0-b469216ca443.csv,кинетический тремор,мужской,75,off,1
+raw_data_baa8fce5-457a-11ed-b0a9-e82aea2c97f4.csv,кинетический тремор,мужской,72,on,0
+raw_data_c5e13685-244c-11ed-9d44-b469216ca443.csv,Постуральный тремор,мужской,75,off,3
+raw_data_f42da239-a8d2-11ec-862e-b469216ca443.csv,кинетический тремор,мужской,23,off,1
+raw_data_42486245-b098-11ec-9bf2-58a023d3f6d9.csv,кинетический тремор,мужской,71,on,0
+raw_data_a9935181-ae7c-11ec-8c50-b469216ca443.csv,постукивание пальцами,женский,23,off,1
+raw_data_89a4ef6e-c154-11ec-b1ef-e82aea2c97f4.csv,Постуральный тремор,женский,65,off,3
+raw_data_146f201f-2667-11ed-8582-b474d352caff.csv,кулак,женский,62,off,4
+raw_data_18ea0edb-29db-11ed-b229-88a4c211973d.csv,постукивание пальцами,0,0,on,0
+raw_data_80613229-0d69-11ed-8053-80847c24eb6e.csv,Пронация и супинация кисти,мужской,78,on,3
+raw_data_0a713713-db3a-11ec-9567-e82aea2c97f4.csv,постукивание пальцами,мужской,52,off,1
+raw_data_bd156805-a997-11ec-9526-58a023d3f6d9.csv,кулак,мужской,63,on,1
+raw_data_b5540289-245c-11ed-9ccc-e82aea2c97f4.csv,постукивание пальцами,женский,64,on,2
+raw_data_6cd6fd85-244a-11ed-a5f4-b469216ca443.csv,Пронация и супинация кисти,мужской,75,off,1
+raw_data_6bf4a027-7d1a-11ed-97f5-e82aea2c97f4.csv,Постуральный тремор,женский,74,off,0
+raw_data_43888c45-f6c0-11ec-80ab-e82aea2c97f4.csv,Постуральный тремор,женский,73,off,3
+raw_data_36ea5383-2cfd-11ed-be4d-e82aea2c97f4.csv,кинетический тремор,мужской,65,off,0
+raw_data_94cdc726-a44d-11ec-ab37-b469216ca443.csv,постукивание пальцами,мужской,23,off,2
+raw_data_b71c4bc1-2f48-11ed-9c4b-c86000e163af.csv,кулак,женский,51,off,2
+raw_data_a0c1d7e2-29f2-11ed-b4cb-e82aea2c97f4.csv,кинетический тремор,женский,70,on,0
+raw_data_5cd98e93-505e-11ed-b027-e82aea2c97f4.csv,кулак,женский,63,off,3
+raw_data_9a82fd09-76f5-11ed-aaa4-e82aea2c97f4.csv,Постуральный тремор,женский,71,on,1
+raw_data_1607ff94-0cb0-11ed-ae9a-b469216ca443.csv,кулак,женский,23,on,3
+raw_data_17238d6a-a99a-11ec-9a82-58a023d3f6d9.csv,Пронация и супинация кисти,мужской,63,on,4
+raw_data_d1048c85-2915-11ed-b8f7-c86000e163af.csv,постукивание пальцами,мужской,71,off,2
+raw_data_16989727-c6d2-11ec-9a84-e82aea2c97f4.csv,кулак,мужской,69,on,2
+raw_data_6e86772b-a5c0-11ec-9015-b469216ca443.csv,Постуральный тремор,женский,23,off,2
+raw_data_f3f7009b-1ed4-11ed-b4c1-e82aea2c97f4.csv,Постуральный тремор,мужской,77,on,2
+raw_data_8e2adb2b-2f68-11ed-8578-e82aea2c97f4.csv,кинетический тремор,женский,66,on,0
+raw_data_bd4fffa9-035f-11ed-b31a-e82aea2c97f4.csv,кинетический тремор,мужской,60,off,3
+raw_data_e76b8d89-29ec-11ed-af5e-e82aea2c97f4.csv,Постуральный тремор,мужской,76,off,0
+raw_data_eb4e9e2f-250c-11ed-b41f-c86000e163af.csv,постукивание пальцами,мужской,70,off,2
+raw_data_69c54de9-2f58-11ed-a06c-c86000e163af.csv,постукивание пальцами,мужской,70,off,2
+raw_data_82520d0d-2dcb-11ed-815c-e82aea2c97f4.csv,постукивание пальцами,мужской,62,off,3
+raw_data_812aa8d5-f6c1-11ec-915a-e82aea2c97f4.csv,постукивание пальцами,женский,73,off,3
+raw_data_fb6f3b65-e643-11ec-8ede-e82aea2c97f4.csv,кулак,мужской,66,on,3
+raw_data_58f6084b-3421-11ed-8190-e82aea2c97f4.csv,Постуральный тремор,мужской,63,on,0
+raw_data_34d886a1-b005-11ec-945b-e82aea2c97f4.csv,Постуральный тремор,мужской,80,off,2
+raw_data_704de9a1-6a49-11ed-93fc-e82aea2c97f4.csv,кинетический тремор,мужской,62,on,0
+raw_data_cce436c3-6a5c-11ed-a717-e82aea2c97f4.csv,Постуральный тремор,мужской,73,on,0
+raw_data_02b42af9-a5c1-11ec-8a63-b469216ca443.csv,постукивание пальцами,женский,23,off,2
+raw_data_4ed8a78b-7d1a-11ed-a39e-e82aea2c97f4.csv,Пронация и супинация кисти,женский,74,off,2
+raw_data_8d6d5fcc-db38-11ec-a005-e82aea2c97f4.csv,Постуральный тремор,мужской,52,off,2
+raw_data_63446f71-2669-11ed-a0cd-b474d352caff.csv,кинетический тремор,женский,62,off,1
+raw_data_e0cc2eaf-ebcb-11ec-ba8d-e82aea2c97f4.csv,постукивание пальцами,женский,67,on,3
+raw_data_bd04d98f-81d4-11ed-8378-e82aea2c97f4.csv,кинетический тремор,женский,74,off,0
+raw_data_1b36a595-0d5d-11ed-9bef-80847c24eb6e.csv,кулак,мужской,61,on,1
+raw_data_19c7d69f-a988-11ec-8b2d-58a023d3f6d9.csv,постукивание пальцами,женский,74,on,4
+raw_data_c0d6820d-c53f-11ec-ac66-e82aea2c97f4.csv,Постуральный тремор,мужской,60,on,1
+raw_data_7f1a12c3-db47-11ec-86f1-e82aea2c97f4.csv,Пронация и супинация кисти,мужской,66,on,2
+raw_data_7c40d921-a8d3-11ec-997e-b469216ca443.csv,Постуральный тремор,мужской,23,off,1
+raw_data_c585a12b-4940-11ed-ae4e-e82aea2c97f4.csv,кинетический тремор,женский,71,on,0
+raw_data_503c38ab-2668-11ed-9f59-b474d352caff.csv,Пронация и супинация кисти,женский,62,off,4
+raw_data_ac34be3d-59c4-11ed-aa61-e82aea2c97f4.csv,постукивание пальцами,женский,50,off,3
+raw_data_8b5ebaf1-1edc-11ed-a05c-e82aea2c97f4.csv,постукивание пальцами,мужской,73,off,3
+raw_data_13268855-a5c0-11ec-a004-b469216ca443.csv,кинетический тремор,женский,23,off,3
+raw_data_48bc9adb-244c-11ed-9c59-b469216ca443.csv,кулак,мужской,75,off,2
+raw_data_9723965f-b3e7-11ec-b3f7-e82aea2c97f4.csv,кулак,мужской,52,off,1
+raw_data_3fff40b6-e061-11ec-aaf5-ef54fcc0d655.csv,Пронация и супинация кисти,женский,63,off,3
+raw_data_3d67b04b-3d79-11ed-9a27-b469216ca443.csv,постукивание пальцами,женский,23,off,1
+raw_data_26488fb1-e871-11ec-8696-fd71ae554d63.csv,Пронация и супинация кисти,женский,56,off,3
+raw_data_eff9ca65-a9a1-11ec-8d67-b469216ca443.csv,постукивание пальцами,мужской,23,off,1
+raw_data_5dab0a5a-1883-11ed-86f7-b469216ca443.csv,Пронация и супинация кисти,мужской,23,off,2
+raw_data_1f23c39b-0caf-11ed-aa09-b469216ca443.csv,Постуральный тремор,женский,23,on,2
+raw_data_b2d8cca7-3276-11ed-af10-c86000e163af.csv,кинетический тремор,женский,65,off,1
+raw_data_426ea90c-ee2a-11ec-8495-94de80136624.csv,кулак,женский,64,on,1
+raw_data_f7753277-2dd4-11ed-ae7f-e82aea2c97f4.csv,кинетический тремор,мужской,74,on,0
+raw_data_03a330bd-1c65-11ed-9d0a-b469216ca443.csv,кулак,мужской,23,off,2
+raw_data_6ce39f73-035f-11ed-a386-e82aea2c97f4.csv,Постуральный тремор,мужской,60,off,3
+raw_data_bf228c41-e0be-11ec-add6-ef54fcc0d655.csv,постукивание пальцами,женский,56,off,3
+raw_data_60c21f5d-f14c-11ec-a39c-e82aea2c97f4.csv,кулак,женский,72,off,3
+raw_data_8f81ca05-244b-11ed-9939-b469216ca443.csv,постукивание пальцами,мужской,75,off,1
+raw_data_6f613503-250d-11ed-9f50-c86000e163af.csv,постукивание пальцами,мужской,70,off,1
+raw_data_dc2685eb-494d-11ed-a257-e82aea2c97f4.csv,кулак,мужской,62,off,3
+raw_data_25cc90af-e0be-11ec-a271-e82aea2c97f4.csv,Постуральный тремор,мужской,64,off,4
+raw_data_799a518b-2677-11ed-aa94-b474d352caff.csv,кулак,женский,62,off,2
+raw_data_ee0642e5-e86d-11ec-9cd3-fd71ae554d63.csv,Постуральный тремор,женский,63,off,0
+raw_data_2fef81da-250e-11ed-8605-c86000e163af.csv,Постуральный тремор,мужской,70,off,2
+raw_data_f7aaab5b-08c0-11ed-8ea5-b469216ca443.csv,кулак,0,0,on,1
+raw_data_c9ab2ce9-3d78-11ed-9178-b469216ca443.csv,постукивание пальцами,женский,23,off,3
+raw_data_b68b3b77-5f3d-11ed-9989-e82aea2c97f4.csv,постукивание пальцами,мужской,61,off,2
+raw_data_fee50bbd-2837-11ed-a3c6-e82aea2c97f4.csv,Постуральный тремор,мужской,69,off,2
+raw_data_035dfb31-6fd9-11ed-a0e0-e82aea2c97f4.csv,постукивание пальцами,мужской,63,on,4
+raw_data_c423b61f-afe9-11ec-812f-58a023d3f6d9.csv,кулак,мужской,68,on,2
+raw_data_ba377425-db47-11ec-818e-e82aea2c97f4.csv,Постуральный тремор,мужской,66,on,2
+raw_data_5b78b31d-495e-11ed-af07-e82aea2c97f4.csv,Постуральный тремор,мужской,65,off,1
+raw_data_54ef5cd5-2678-11ed-b6e5-b474d352caff.csv,кулак,женский,62,off,2
+raw_data_9efe2dfd-e269-11ec-8bc0-e82aea2c97f4.csv,постукивание пальцами,женский,73,on,3
+raw_data_c4830229-e572-11ec-b439-b469216ca443.csv,кулак,женский,60,on,3
+raw_data_437f4173-ae7b-11ec-94ca-b469216ca443.csv,Пронация и супинация кисти,женский,23,off,4
+raw_data_c27f932b-0cdc-11ed-a669-b469216ca443.csv,кулак,мужской,75,off,2
+raw_data_ad41229b-1872-11ed-99d9-b469216ca443.csv,кулак,женский,23,on,1
+raw_data_8a9bc712-1ed4-11ed-84cd-e82aea2c97f4.csv,кулак,мужской,77,on,1
+raw_data_b7c9d267-5f3e-11ed-bfbc-e82aea2c97f4.csv,кинетический тремор,мужской,61,off,0
+raw_data_7e8d2837-1883-11ed-abf0-b469216ca443.csv,постукивание пальцами,мужской,23,off,3
+raw_data_b773acb7-2f57-11ed-ae05-c86000e163af.csv,Пронация и супинация кисти,мужской,70,off,2
+raw_data_e4e0334d-e887-11ec-9be9-b469216ca443.csv,постукивание пальцами,женский,73,off,4
+raw_data_a7ecf8d7-29df-11ed-a234-88a4c211973d.csv,постукивание пальцами,0,0,on,0
+raw_data_ffd841bd-e072-11ec-92af-ef54fcc0d655.csv,Пронация и супинация кисти,женский,63,off,1
+raw_data_6b50a943-0be6-11ed-ae81-b469216ca443.csv,кулак,женский,68,on,1
+raw_data_7f806e3d-2cea-11ed-9f64-e82aea2c97f4.csv,Постуральный тремор,мужской,70,off,1
+raw_data_cfd62b71-0f01-11ed-b4da-b469216ca443.csv,Постуральный тремор,мужской,23,on,1
+raw_data_3e938285-aa64-11ec-b64c-b469216ca443.csv,кулак,мужской,23,off,2
+raw_data_e075b639-a44d-11ec-a74d-b469216ca443.csv,постукивание пальцами,мужской,23,off,2
+raw_data_3a14ed8b-1f9e-11ed-bfd1-e82aea2c97f4.csv,кулак,женский,63,off,0
+raw_data_1689ba67-a44f-11ec-bdc9-b469216ca443.csv,кинетический тремор,мужской,23,off,1
+raw_data_2789d92b-a8ff-11ec-bd85-b469216ca443.csv,кулак,женский,23,off,0
+raw_data_893f3a8b-de70-11ec-b5a6-94e70b2fc76c.csv,кулак,мужской,23,on,0
+raw_data_e83ff477-01b1-11ed-8d40-916034403430.csv,Постуральный тремор,женский,58,on,1
+raw_data_e7af7124-22a3-11ed-960f-b474d352caff.csv,кулак,женский,23,on,3
+raw_data_231e3283-455f-11ed-ab6f-e82aea2c97f4.csv,кинетический тремор,мужской,74,on,0
+raw_data_ae787669-76e0-11ed-98db-e82aea2c97f4.csv,кулак,женский,72,off,0
+raw_data_640b2a2b-2dcf-11ed-8838-e82aea2c97f4.csv,Постуральный тремор,мужской,67,on,0
+raw_data_9925931f-f776-11ec-8344-b469216ca443.csv,постукивание пальцами,женский,67,on,4
+raw_data_7ae8c729-3276-11ed-9ff3-c86000e163af.csv,Пронация и супинация кисти,женский,65,off,2
+raw_data_cecc2f39-21e6-11ed-accc-b469216ca443.csv,Постуральный тремор,женский,23,off,1
+raw_data_7a64558f-e267-11ec-b1bd-e82aea2c97f4.csv,Пронация и супинация кисти,женский,73,on,4
+raw_data_b70d3974-b0ec-11ec-a2bb-e82aea2c97f4.csv,постукивание пальцами,женский,55,off,2
+raw_data_5821f36f-e86e-11ec-a4b2-fd71ae554d63.csv,кинетический тремор,женский,63,off,0
+raw_data_605cc40d-22a3-11ed-bb7b-b474d352caff.csv,кинетический тремор,женский,23,on,1
+raw_data_001cd271-1de8-11ed-9476-b469216ca443.csv,постукивание пальцами,мужской,23,on,3
+raw_data_5bef0c08-afea-11ec-a740-58a023d3f6d9.csv,Пронация и супинация кисти,мужской,68,on,2
+raw_data_fdd31395-6fd9-11ed-b3b6-e82aea2c97f4.csv,кинетический тремор,мужской,63,on,0
+raw_data_740798e9-81f0-11ed-8eff-e82aea2c97f4.csv,постукивание пальцами,мужской,64,off,1
+raw_data_adf0fc61-505e-11ed-a748-e82aea2c97f4.csv,Постуральный тремор,женский,63,off,0
+raw_data_dae320e5-08bf-11ed-b2f7-b469216ca443.csv,Постуральный тремор,0,0,on,1
+raw_data_2de3455b-2679-11ed-8916-b474d352caff.csv,Постуральный тремор,женский,62,off,0
+raw_data_6d329d79-3d66-11ed-a794-b469216ca443.csv,кинетический тремор,женский,23,on,1
+raw_data_21e2ad55-90c4-11ed-83cb-e82aea2c97f4.csv,Постуральный тремор,0,0,off,0
+raw_data_9229ba4d-01b1-11ed-b7da-916034403430.csv,Пронация и супинация кисти,женский,58,on,3
+raw_data_7f7731a8-c540-11ec-a402-e82aea2c97f4.csv,постукивание пальцами,мужской,60,on,0
+raw_data_18425ac5-455e-11ed-bee5-e82aea2c97f4.csv,постукивание пальцами,мужской,74,on,3
+raw_data_f8218de5-2836-11ed-a1b3-e82aea2c97f4.csv,постукивание пальцами,мужской,69,off,2
+raw_data_315f3f7b-2f59-11ed-a5e2-c86000e163af.csv,Постуральный тремор,мужской,70,off,3
+raw_data_96354a25-db47-11ec-ab98-e82aea2c97f4.csv,Постуральный тремор,мужской,66,on,3
+raw_data_d603f231-a988-11ec-9781-58a023d3f6d9.csv,кулак,женский,74,on,1
+raw_data_42a9e771-b0de-11ec-b52f-e82aea2c97f4.csv,Постуральный тремор,женский,55,off,3
+raw_data_1446aa71-b6da-11ec-939e-58a023d3f6d9.csv,постукивание пальцами,мужской,72,on,4
+raw_data_22eb663d-c16f-11ec-8942-e82aea2c97f4.csv,Постуральный тремор,женский,66,on,3
+raw_data_4cdf9b49-81f1-11ed-b311-e82aea2c97f4.csv,Постуральный тремор,мужской,64,off,1
+raw_data_da942daa-2ffd-11ed-9d37-c86000e163af.csv,кулак,мужской,63,off,2
+raw_data_5391664b-29ed-11ed-995f-e82aea2c97f4.csv,кинетический тремор,мужской,76,off,0
+raw_data_d8da32b9-2ddc-11ed-abf7-e82aea2c97f4.csv,Постуральный тремор,женский,70,off,0
+raw_data_7877f424-22b1-11ed-aaca-b469216ca443.csv,постукивание пальцами,женский,23,off,4
+raw_data_a97ab166-dbe0-11ec-be81-9248d38b455f.csv,Пронация и супинация кисти,мужской,23,off,1
+raw_data_c691754d-7c57-11ed-9ef2-e82aea2c97f4.csv,постукивание пальцами,женский,73,off,3
+raw_data_77fd86b7-6a5c-11ed-a684-e82aea2c97f4.csv,Пронация и супинация кисти,мужской,73,on,0
+raw_data_56a3c33d-b0eb-11ec-aacb-e82aea2c97f4.csv,Постуральный тремор,женский,55,off,2
+raw_data_d0c6de43-64bb-11ed-a800-e82aea2c97f4.csv,постукивание пальцами,женский,74,off,2
+raw_data_2bde4249-21e8-11ed-924f-b469216ca443.csv,постукивание пальцами,женский,23,off,4
+raw_data_08ca374f-3e45-11ed-a204-e82aea2c97f4.csv,Постуральный тремор,мужской,58,off,0
+raw_data_7c6d254f-544a-11ed-9d90-e82aea2c97f4.csv,кинетический тремор,мужской,62,off,0
+raw_data_33e1c47d-f1f5-11ec-941d-b469216ca443.csv,кинетический тремор,мужской,55,off,1
+raw_data_e0011c3d-2503-11ed-b5be-c86000e163af.csv,постукивание пальцами,женский,68,off,2
+raw_data_2d85e85b-aa73-11ec-a5c3-58a023d3f6d9.csv,постукивание пальцами,мужской,23,off,0
+raw_data_e2f044e6-01b0-11ed-8e9b-916034403430.csv,кулак,женский,58,on,3
+raw_data_2dfb2fa7-1c64-11ed-93bb-b469216ca443.csv,Пронация и супинация кисти,мужской,23,off,2
+raw_data_7cb18849-29f2-11ed-b5e0-e82aea2c97f4.csv,Постуральный тремор,женский,70,on,0
+raw_data_c6e30731-ae7c-11ec-b274-b469216ca443.csv,кулак,женский,23,off,1
+raw_data_a1e025db-12ed-11ed-8734-c86000e163af.csv,постукивание пальцами,женский,81,off,3
+raw_data_7768346f-a8fe-11ec-beec-b469216ca443.csv,кинетический тремор,женский,23,off,2
+raw_data_14aa9e6f-2cfd-11ed-8bfa-e82aea2c97f4.csv,кинетический тремор,мужской,65,off,1
+raw_data_d2e7a757-1c65-11ed-845a-b469216ca443.csv,кулак,мужской,23,off,1
+raw_data_89bf5b03-494e-11ed-8163-e82aea2c97f4.csv,кинетический тремор,мужской,62,off,0
+raw_data_3f8348f1-21e7-11ed-9710-b469216ca443.csv,Пронация и супинация кисти,женский,23,off,4
+raw_data_3a8a409b-3976-11ed-95c1-c86000e163af.csv,кулак,мужской,51,on,3
+raw_data_cddc64df-2cf6-11ed-bf17-e82aea2c97f4.csv,постукивание пальцами,женский,78,off,3
+raw_data_22efbb88-ee2c-11ec-8e19-94de80136624.csv,кинетический тремор,женский,64,on,0
+raw_data_a3fe4053-f7a0-11ec-8c05-b469216ca443.csv,кинетический тремор,мужской,65,off,0
+raw_data_ccc43aea-aa67-11ec-ba05-58a023d3f6d9.csv,постукивание пальцами,мужской,23,off,3
+raw_data_322f9115-aa74-11ec-997d-58a023d3f6d9.csv,Постуральный тремор,мужской,23,off,1
+raw_data_0cc45a1f-f1f6-11ec-b0d6-b469216ca443.csv,кулак,мужской,55,off,2
+raw_data_1c5ec3cc-db49-11ec-b751-e82aea2c97f4.csv,постукивание пальцами,мужской,66,on,2
+raw_data_bad5f03b-29f1-11ed-8285-e82aea2c97f4.csv,постукивание пальцами,женский,70,on,2
+raw_data_86d0325c-c15c-11ec-abfd-e82aea2c97f4.csv,кинетический тремор,женский,65,off,2
+raw_data_ae50f87e-237b-11ed-8821-b469216ca443.csv,постукивание пальцами,мужской,23,off,4
+raw_data_d60ad543-e0c0-11ec-85e1-ef54fcc0d655.csv,кинетический тремор,женский,56,off,0
+raw_data_f756f8e1-aa73-11ec-9951-58a023d3f6d9.csv,кинетический тремор,мужской,23,off,0
+raw_data_7569ea15-e071-11ec-87f5-ef54fcc0d655.csv,кулак,женский,63,off,1
+raw_data_7284a945-b1b2-11ec-a794-b469216ca443.csv,постукивание пальцами,женский,23,on,4
+raw_data_073cca8d-0d6b-11ed-a7bb-b6da2cf29e9d.csv,кинетический тремор,мужской,78,on,0
+raw_data_96f9d556-5453-11ed-a2bc-e82aea2c97f4.csv,Постуральный тремор,женский,63,on,0
+raw_data_b0faa915-2cea-11ed-ad40-e82aea2c97f4.csv,кинетический тремор,мужской,70,off,0
+raw_data_a82f740f-b09a-11ec-a74d-58a023d3f6d9.csv,Постуральный тремор,мужской,71,on,1
+raw_data_d4de2c2f-5453-11ed-a8eb-e82aea2c97f4.csv,кинетический тремор,женский,63,on,0
+raw_data_5ce4d637-2d0c-11ed-8120-e82aea2c97f4.csv,кулак,мужской,65,off,2
+raw_data_ba04c18a-e05f-11ec-b94d-ef54fcc0d655.csv,постукивание пальцами,женский,63,off,3
+raw_data_e4028605-3420-11ed-96c6-e82aea2c97f4.csv,кулак,мужской,63,on,2
+raw_data_5ff0e173-3e45-11ed-97f4-e82aea2c97f4.csv,кинетический тремор,мужской,58,off,0
+raw_data_6de52d68-38c4-11ed-ae97-c86000e163af.csv,постукивание пальцами,мужской,47,on,4
+raw_data_4472d7fd-6fc3-11ed-a4e0-e82aea2c97f4.csv,кинетический тремор,женский,54,on,0
+raw_data_fc45333a-e579-11ec-8597-b469216ca443.csv,постукивание пальцами,женский,64,off,2
+raw_data_d2db2c95-e57a-11ec-9d72-b469216ca443.csv,кулак,женский,64,off,4
+raw_data_6be7d2f1-2cfc-11ed-80e5-e82aea2c97f4.csv,кулак,мужской,65,off,2
+raw_data_6265f69d-8041-11ed-b650-e82aea2c97f4.csv,кинетический тремор,мужской,23,off,0
+raw_data_e0cad0af-6fcc-11ed-9b62-e82aea2c97f4.csv,кинетический тремор,мужской,83,off,0
+raw_data_2effb7a1-e57b-11ec-9483-b469216ca443.csv,Постуральный тремор,женский,64,off,1
+raw_data_05d8da2b-2679-11ed-bb6e-b474d352caff.csv,Постуральный тремор,женский,62,off,0
+raw_data_9f01ee8c-a8fe-11ec-bfe6-b469216ca443.csv,Постуральный тремор,женский,23,off,1
+raw_data_ccd2d55b-c206-11ec-bd35-b469216ca443.csv,постукивание пальцами,мужской,23,off,2
+raw_data_8b41bbfd-aa68-11ec-a6fc-58a023d3f6d9.csv,Пронация и супинация кисти,мужской,23,off,3
+raw_data_12d7147b-2ffe-11ed-a260-c86000e163af.csv,Постуральный тремор,мужской,63,off,1
+raw_data_46d87a6f-01b3-11ed-a3da-916034403430.csv,кинетический тремор,женский,58,on,0
+raw_data_f1c36fcf-aa67-11ec-89aa-58a023d3f6d9.csv,кулак,мужской,23,off,3
+raw_data_48415a15-e0c4-11ec-a2e8-e82aea2c97f4.csv,кулак,женский,72,on,3
+raw_data_ba283cc9-c15e-11ec-8f26-e82aea2c97f4.csv,кулак,женский,65,off,2
+raw_data_5d04b533-dbdf-11ec-9062-9248d38b455f.csv,кулак,мужской,23,off,1
+raw_data_f26f15cd-f7a1-11ec-bf71-b469216ca443.csv,постукивание пальцами,мужской,65,off,2
+raw_data_fcd96515-af4d-11ec-8366-e82aea2c97f4.csv,постукивание пальцами,мужской,82,on,2
+raw_data_bd0c7e39-b4cb-11ec-864c-b469216ca443.csv,постукивание пальцами,мужской,23,on,2
+raw_data_e5330bf1-b4c9-11ec-a516-b469216ca443.csv,кинетический тремор,мужской,23,on,1
+raw_data_ad22792f-2911-11ed-ac39-e82aea2c97f4.csv,Постуральный тремор,женский,71,off,2
+raw_data_82871bd1-e0c0-11ec-9da7-ef54fcc0d655.csv,Постуральный тремор,женский,56,off,1
+raw_data_d7ae9dd7-c204-11ec-acc3-b469216ca443.csv,Постуральный тремор,мужской,23,off,0
+raw_data_df5cdc5b-dbdf-11ec-b796-9248d38b455f.csv,Постуральный тремор,мужской,23,off,0
+raw_data_6e17064c-b3e9-11ec-b322-e82aea2c97f4.csv,кулак,мужской,52,off,2
+raw_data_621861e5-00b7-11ed-a73c-916034403430.csv,Постуральный тремор,мужской,66,on,1
+raw_data_d6944e8f-b4cb-11ec-9d6d-b469216ca443.csv,кулак,мужской,23,on,1
+raw_data_d0dfd689-76df-11ed-a801-e82aea2c97f4.csv,постукивание пальцами,женский,72,off,2
+raw_data_5e2a8acd-1ed5-11ed-8f87-e82aea2c97f4.csv,кинетический тремор,мужской,77,on,1
+raw_data_650eafcf-a988-11ec-9ed2-58a023d3f6d9.csv,кулак,женский,74,on,1
+raw_data_14f1325b-e888-11ec-ac9e-b469216ca443.csv,кулак,женский,73,off,3
+raw_data_f10c2c21-2ddc-11ed-af5a-e82aea2c97f4.csv,Постуральный тремор,женский,70,off,0
+raw_data_bd3465a1-5453-11ed-8eec-e82aea2c97f4.csv,Постуральный тремор,женский,63,on,0
+raw_data_78dcb0c9-e006-11ec-962e-b469216ca443.csv,кулак,мужской,65,on,2
+raw_data_b2cedd97-e269-11ec-b8c5-e82aea2c97f4.csv,кулак,женский,73,on,3
+raw_data_8fc96d4f-0367-11ed-8ae8-e82aea2c97f4.csv,Постуральный тремор,женский,59,on,3
+raw_data_1d5dd9e7-64bc-11ed-92d8-e82aea2c97f4.csv,кулак,женский,74,off,3
+raw_data_66eb0e7d-f125-11ec-8889-b469216ca443.csv,постукивание пальцами,мужской,60,off,2
+raw_data_8d49b661-2907-11ed-9690-e82aea2c97f4.csv,кулак,женский,23,off,3
+raw_data_8e119ce7-c53f-11ec-a03d-e82aea2c97f4.csv,Постуральный тремор,мужской,60,on,0
+raw_data_180f3220-a8d3-11ec-a7e0-b469216ca443.csv,Пронация и супинация кисти,мужской,23,off,0
+raw_data_f627e24f-76d6-11ed-b6ca-e82aea2c97f4.csv,кинетический тремор,мужской,67,off,1
+raw_data_7871b5b7-3421-11ed-b69b-e82aea2c97f4.csv,Постуральный тремор,мужской,63,on,0
+raw_data_bf5180d3-34f9-11ed-a9cc-e82aea2c97f4.csv,постукивание пальцами,мужской,73,off,3
+raw_data_c1a677df-38c4-11ed-98c0-c86000e163af.csv,Постуральный тремор,мужской,47,on,3
+raw_data_c161f533-c6e8-11ec-be00-e82aea2c97f4.csv,Постуральный тремор,женский,64,off,2
+raw_data_04260777-e007-11ec-b30e-b469216ca443.csv,постукивание пальцами,мужской,65,on,2
+raw_data_629962b9-ec9c-11ec-b5ab-e82aea2c97f4.csv,постукивание пальцами,мужской,47,off,3
+raw_data_a87ce0a9-e87d-11ec-af25-b469216ca443.csv,Пронация и супинация кисти,женский,60,on,2
+raw_data_83f3333d-de6f-11ec-a1a9-94e70b2fc76c.csv,постукивание пальцами,мужской,23,on,0
+raw_data_0cce69e7-afea-11ec-86a3-58a023d3f6d9.csv,кулак,мужской,68,on,1
+raw_data_2d455244-c546-11ec-8b61-e82aea2c97f4.csv,постукивание пальцами,женский,74,on,1
+raw_data_66bcdf89-2dcc-11ed-9c7e-e82aea2c97f4.csv,Постуральный тремор,мужской,62,off,0
+raw_data_87b4b553-246f-11ed-9e32-e82aea2c97f4.csv,кулак,0,0,on,1
+raw_data_450885ec-85cb-11ed-bc04-e82aea2c97f4.csv,кулак,мужской,70,off,0
+raw_data_b3612c6a-2dce-11ed-97c6-e82aea2c97f4.csv,кулак,мужской,67,on,0
+raw_data_685cf8de-2907-11ed-8e4a-e82aea2c97f4.csv,постукивание пальцами,женский,23,off,3
+raw_data_9e9e20c9-00b7-11ed-8280-916034403430.csv,кинетический тремор,мужской,66,on,1
+raw_data_82448889-2cf7-11ed-a87e-e82aea2c97f4.csv,Постуральный тремор,женский,78,off,2
+raw_data_f12b5b29-6fcb-11ed-8410-e82aea2c97f4.csv,кулак,мужской,83,off,1
+raw_data_9b238a97-0be5-11ed-bda9-b469216ca443.csv,кинетический тремор,женский,68,on,1
+raw_data_9e32e9b0-2f48-11ed-8140-c86000e163af.csv,постукивание пальцами,женский,51,off,2
+raw_data_ffc03967-e073-11ec-b1da-ef54fcc0d655.csv,Постуральный тремор,женский,63,off,0
+raw_data_fbfd96b5-34ee-11ed-9469-e82aea2c97f4.csv,постукивание пальцами,мужской,69,off,3
+raw_data_d31fc6b7-b0e8-11ec-bc21-e82aea2c97f4.csv,Постуральный тремор,мужской,44,off,2
+raw_data_c1f50b9d-81f0-11ed-9587-e82aea2c97f4.csv,Постуральный тремор,мужской,64,off,0
+raw_data_433de47a-a98a-11ec-9e6f-58a023d3f6d9.csv,Постуральный тремор,женский,74,on,1
+raw_data_56085a0c-b003-11ec-bc04-e82aea2c97f4.csv,кулак,мужской,80,off,3
+raw_data_05229721-64bc-11ed-8bb6-e82aea2c97f4.csv,кулак,женский,74,off,2
+raw_data_c46039e5-6fcc-11ed-8d01-e82aea2c97f4.csv,Постуральный тремор,мужской,83,off,0
+raw_data_530eb99b-2cfc-11ed-a351-e82aea2c97f4.csv,кулак,мужской,65,off,2
+raw_data_8e407fdf-6fd9-11ed-9212-e82aea2c97f4.csv,постукивание пальцами,мужской,63,on,3
+raw_data_e41e5303-c171-11ec-b814-e82aea2c97f4.csv,постукивание пальцами,женский,66,on,2
+raw_data_f7695193-34ef-11ed-8b36-e82aea2c97f4.csv,кинетический тремор,мужской,69,off,0
+raw_data_3d3a929f-5453-11ed-9409-e82aea2c97f4.csv,кулак,женский,63,on,2
+raw_data_30ff06c5-f155-11ec-b70f-e82aea2c97f4.csv,Постуральный тремор,женский,72,off,2
+raw_data_1a4d89df-6a5c-11ed-8916-e82aea2c97f4.csv,постукивание пальцами,мужской,73,on,2
+raw_data_7de27a26-1c65-11ed-99ab-b469216ca443.csv,кинетический тремор,мужской,23,off,2
+raw_data_066f7bef-22ae-11ed-9bfe-b469216ca443.csv,кинетический тремор,женский,23,off,3
+raw_data_5b3f971f-1231-11ed-9c08-b469216ca443.csv,кинетический тремор,мужской,62,off,2
+raw_data_cfeb1a3d-0be5-11ed-a973-b469216ca443.csv,постукивание пальцами,женский,68,on,1
+raw_data_ee4a4cf1-2dcb-11ed-bba5-e82aea2c97f4.csv,кулак,мужской,62,off,1
+raw_data_8ec4163a-85c0-11ed-b3b7-e82aea2c97f4.csv,постукивание пальцами,женский,68,on,1
+raw_data_d707dc49-5f3e-11ed-a6d4-e82aea2c97f4.csv,кинетический тремор,мужской,61,off,0
+raw_data_572d4f9f-2667-11ed-b5be-b474d352caff.csv,постукивание пальцами,женский,62,off,4
+raw_data_691d36c9-2cf7-11ed-b450-e82aea2c97f4.csv,Пронация и супинация кисти,женский,78,off,2
+raw_data_fd23e785-e641-11ec-95f5-e82aea2c97f4.csv,Постуральный тремор,мужской,66,on,3
+raw_data_3b111543-5442-11ed-ad75-e82aea2c97f4.csv,Постуральный тремор,мужской,70,on,0
+raw_data_36d721c9-ae7c-11ec-a5f3-b469216ca443.csv,кулак,женский,23,off,2
+raw_data_c4975bb7-505e-11ed-a9a5-e82aea2c97f4.csv,Постуральный тремор,женский,63,off,0
+raw_data_18db256f-2f49-11ed-b82c-c86000e163af.csv,постукивание пальцами,женский,51,off,4
+raw_data_b2364079-6a49-11ed-9d46-e82aea2c97f4.csv,Постуральный тремор,мужской,62,on,0
+raw_data_1419fe4d-b4cb-11ec-a16a-b469216ca443.csv,постукивание пальцами,мужской,23,on,3
+raw_data_ec5efc09-0d6a-11ed-b127-b6da2cf29e9d.csv,кинетический тремор,мужской,78,on,0
+raw_data_48e87a29-2dd3-11ed-9805-e82aea2c97f4.csv,постукивание пальцами,мужской,74,on,1
+raw_data_9f827726-e0c0-11ec-8e6a-ef54fcc0d655.csv,Постуральный тремор,женский,56,off,0
+raw_data_174c3d71-3d78-11ed-a154-b469216ca443.csv,Постуральный тремор,женский,23,off,1
+raw_data_696fc48c-f84c-11ec-9d3d-b469216ca443.csv,кинетический тремор,мужской,55,off,1
+raw_data_b39ebad7-2f5f-11ed-8b00-e82aea2c97f4.csv,кинетический тремор,мужской,74,off,0
+raw_data_288d58bb-7c5f-11ed-95b8-e82aea2c97f4.csv,кинетический тремор,мужской,67,on,1
+raw_data_150217a9-aa64-11ec-a37d-b469216ca443.csv,постукивание пальцами,мужской,23,off,2
+raw_data_e0ca7eb5-1883-11ed-890d-b469216ca443.csv,постукивание пальцами,мужской,23,off,2
+raw_data_8903e2f3-250d-11ed-81c0-c86000e163af.csv,кулак,мужской,70,off,2
+raw_data_6c12967d-a9a2-11ec-8fa6-b469216ca443.csv,постукивание пальцами,мужской,23,off,0
+raw_data_a192b35d-afe9-11ec-8b5a-58a023d3f6d9.csv,постукивание пальцами,мужской,68,on,2
+raw_data_3271aa71-afeb-11ec-9c5c-58a023d3f6d9.csv,кинетический тремор,мужской,68,on,0
+raw_data_46b66601-7c58-11ed-bc92-e82aea2c97f4.csv,кинетический тремор,женский,73,off,1
+raw_data_3fccb1df-1f82-11ed-afb2-b469216ca443.csv,Постуральный тремор,мужской,23,off,1
+raw_data_75dd7261-aa69-11ec-a9ad-58a023d3f6d9.csv,Постуральный тремор,мужской,23,off,3
+raw_data_f7bba06f-4558-11ed-b0b2-e82aea2c97f4.csv,кулак,женский,67,on,1
+raw_data_85032781-2cf3-11ed-80ec-e82aea2c97f4.csv,кинетический тремор,мужской,70,off,0
+raw_data_1f167a89-a5c1-11ec-8371-b469216ca443.csv,кулак,женский,23,off,2
+raw_data_9416e2cd-64bc-11ed-a49c-e82aea2c97f4.csv,Постуральный тремор,женский,74,off,2
+raw_data_e790a34f-e060-11ec-92c0-ef54fcc0d655.csv,кулак,женский,63,off,2
+raw_data_aa44dc3d-493f-11ed-9ab0-e82aea2c97f4.csv,постукивание пальцами,женский,71,on,2
+raw_data_7c222173-3d78-11ed-a288-b469216ca443.csv,кинетический тремор,женский,23,off,1
+raw_data_93a4aa57-1f83-11ed-a227-b469216ca443.csv,кулак,мужской,23,off,1
+raw_data_afbdec15-e62b-11ec-b582-b469216ca443.csv,кулак,мужской,71,on,3
+raw_data_d69dbca7-5f43-11ed-b022-e82aea2c97f4.csv,Постуральный тремор,женский,67,on,0
+raw_data_bb7cb8b7-3969-11ed-b24b-b469216ca443.csv,постукивание пальцами,мужской,23,off,2
+raw_data_21e4e981-1f9e-11ed-b5e8-e82aea2c97f4.csv,кулак,женский,63,off,0
+raw_data_1e04aa70-237a-11ed-8b13-b469216ca443.csv,кинетический тремор,мужской,23,off,4
+raw_data_738827cb-3a62-11ed-af91-b469216ca443.csv,постукивание пальцами,0,0,off,4
+raw_data_a863904b-2f75-11ed-ad4d-e82aea2c97f4.csv,кинетический тремор,мужской,23,off,0
+raw_data_d4b8d84d-f14c-11ec-ad88-e82aea2c97f4.csv,постукивание пальцами,женский,72,off,3
+raw_data_11df9b29-244c-11ed-8813-b469216ca443.csv,постукивание пальцами,мужской,75,off,2
+raw_data_8dd9ad1b-b1b2-11ec-9154-b469216ca443.csv,кулак,женский,23,on,4
+raw_data_da302f25-38c4-11ed-ade7-c86000e163af.csv,Постуральный тремор,мужской,47,on,2
+raw_data_97730c21-c14d-11ec-89b4-e82aea2c97f4.csv,постукивание пальцами,женский,69,off,3
+raw_data_c462a4a9-12ed-11ed-80ee-c86000e163af.csv,кулак,женский,81,off,3
+raw_data_c7558bc3-22a2-11ed-a7d2-b474d352caff.csv,Постуральный тремор,женский,23,on,1
+raw_data_1c144faf-81d4-11ed-89c6-e82aea2c97f4.csv,постукивание пальцами,женский,74,off,2
+raw_data_93fa1c33-2ffc-11ed-b7f0-c86000e163af.csv,Пронация и супинация кисти,мужской,63,off,3
+raw_data_5d0f9b25-29f2-11ed-aaaa-e82aea2c97f4.csv,Постуральный тремор,женский,70,on,0
+raw_data_4596573b-db4e-11ec-bac5-e82aea2c97f4.csv,постукивание пальцами,женский,42,on,3
+raw_data_9742b38b-e0c3-11ec-85f2-e82aea2c97f4.csv,постукивание пальцами,женский,72,on,3
+raw_data_0e35e11d-dbe0-11ec-ab1f-9248d38b455f.csv,Постуральный тремор,мужской,23,off,0
+raw_data_58ed4439-6a5c-11ed-8249-e82aea2c97f4.csv,кулак,мужской,73,on,3
+raw_data_b009aa33-6a5c-11ed-9440-e82aea2c97f4.csv,Постуральный тремор,мужской,73,on,0
+raw_data_341c5c31-1231-11ed-a2f3-b469216ca443.csv,Постуральный тремор,мужской,62,off,1
+raw_data_1ac431e1-396a-11ed-9cf9-b469216ca443.csv,постукивание пальцами,мужской,23,off,4
+raw_data_023f6d37-0caf-11ed-be25-b469216ca443.csv,Постуральный тремор,женский,23,on,3
+raw_data_90701301-5441-11ed-a343-e82aea2c97f4.csv,постукивание пальцами,мужской,70,on,2
+raw_data_d46860c1-0be4-11ed-aa5d-b469216ca443.csv,Постуральный тремор,женский,68,on,0
+raw_data_10a39373-2ddd-11ed-a828-e82aea2c97f4.csv,кинетический тремор,женский,70,off,0
+raw_data_443ef2d7-2470-11ed-b8f3-e82aea2c97f4.csv,кинетический тремор,0,0,on,2
+raw_data_fbefe8d5-1edc-11ed-8b08-e82aea2c97f4.csv,кулак,мужской,73,off,1
+raw_data_6be7a7b1-b0d8-11ec-ad8b-e82aea2c97f4.csv,постукивание пальцами,мужской,44,off,3
+raw_data_f72c7a24-e0bf-11ec-a808-ef54fcc0d655.csv,кулак,женский,56,off,4
+raw_data_b2196853-e870-11ec-8108-fd71ae554d63.csv,кулак,женский,56,off,3
+raw_data_f9de7f5f-2670-11ed-adcc-b474d352caff.csv,кулак,мужской,71,off,3
+raw_data_9eb19df1-3d78-11ed-8155-b469216ca443.csv,кинетический тремор,женский,23,off,1
+raw_data_4e076681-c6d1-11ec-b314-e82aea2c97f4.csv,кулак,мужской,69,on,2
+raw_data_573641fd-457a-11ed-9c65-e82aea2c97f4.csv,Постуральный тремор,мужской,72,on,0
+raw_data_bd8ad713-b005-11ec-9ee3-e82aea2c97f4.csv,кинетический тремор,мужской,80,off,2
+raw_data_500af937-b0d9-11ec-afd8-e82aea2c97f4.csv,Постуральный тремор,мужской,44,off,3
+raw_data_27a0a5d3-3277-11ed-884f-c86000e163af.csv,постукивание пальцами,женский,65,off,0
+raw_data_21522109-0d5e-11ed-9859-80847c24eb6e.csv,Постуральный тремор,мужской,61,on,0
+raw_data_e5c1dbfd-bfcf-11ec-bf29-e82aea2c97f4.csv,Постуральный тремор,женский,65,on,1
+raw_data_87497583-3e3b-11ed-a691-e82aea2c97f4.csv,кулак,женский,64,on,1
+raw_data_9fd1a97e-e87e-11ec-ba3b-b469216ca443.csv,кулак,женский,60,on,2
+raw_data_98fe6cbb-457a-11ed-9bd9-e82aea2c97f4.csv,кинетический тремор,мужской,72,on,0
+raw_data_10367f1d-afeb-11ec-bc13-58a023d3f6d9.csv,кинетический тремор,мужской,68,on,0
+raw_data_a5049009-b0eb-11ec-b33e-e82aea2c97f4.csv,кинетический тремор,женский,55,off,2
+raw_data_b489f655-8ef7-11ec-8a29-58a023d3f6d9.csv,постукивание пальцами,женский,69,on,2
+raw_data_59a0e48f-2501-11ed-b7fe-c86000e163af.csv,кинетический тремор,женский,68,off,1
+raw_data_f7343565-2453-11ed-affc-e82aea2c97f4.csv,кинетический тремор,мужской,72,on,1
+raw_data_2586fa41-5372-11ed-843d-e82aea2c97f4.csv,постукивание пальцами,женский,74,off,1
+raw_data_7316c9a8-0d67-11ed-b443-80847c24eb6e.csv,постукивание пальцами,мужской,78,on,3
+raw_data_97302030-afea-11ec-9a9f-58a023d3f6d9.csv,Постуральный тремор,мужской,68,on,0
+raw_data_62e7fad3-29ec-11ed-8fb6-e82aea2c97f4.csv,кулак,мужской,76,off,4
+raw_data_c3c0e63b-e86d-11ec-a333-fd71ae554d63.csv,Постуральный тремор,женский,63,off,0
+raw_data_c5c75a79-e061-11ec-a7a1-ef54fcc0d655.csv,Постуральный тремор,женский,63,off,0
+raw_data_5196f29f-64c4-11ed-81f5-e82aea2c97f4.csv,кинетический тремор,женский,67,off,0
+raw_data_05f650e5-e86d-11ec-81cb-fd71ae554d63.csv,кулак,женский,63,off,3
+raw_data_9da654c8-29f1-11ed-8759-e82aea2c97f4.csv,постукивание пальцами,женский,70,on,2
+raw_data_0b3f492b-e0c2-11ec-a3f2-e82aea2c97f4.csv,Постуральный тремор,женский,72,on,1
+raw_data_ba042e43-fc5a-11ec-b27c-e82aea2c97f4.csv,кулак,мужской,72,off,3
+raw_data_7a7a9303-22ad-11ed-ac57-b469216ca443.csv,Постуральный тремор,женский,23,off,2
+raw_data_e70e23b9-1de6-11ed-99c2-b469216ca443.csv,кинетический тремор,мужской,23,on,2
+raw_data_63f5bda9-7d19-11ed-b747-e82aea2c97f4.csv,постукивание пальцами,женский,74,off,1
+raw_data_b8fc5df9-34c9-11ed-ad39-e82aea2c97f4.csv,Постуральный тремор,мужской,50,on,1
+raw_data_80770f53-38c3-11ed-ade2-c86000e163af.csv,кинетический тремор,мужской,47,on,1
+raw_data_ac8455e7-5441-11ed-a202-e82aea2c97f4.csv,кулак,мужской,70,on,1
+raw_data_e6f5ad66-81f0-11ed-8857-e82aea2c97f4.csv,кинетический тремор,мужской,64,off,0
+raw_data_c2a9cedb-00b6-11ed-bf7b-916034403430.csv,Пронация и супинация кисти,мужской,66,on,2
+raw_data_0bf5c253-1884-11ed-b721-b469216ca443.csv,кулак,мужской,23,off,1
+raw_data_2eb7a655-7d1e-11ed-bb29-e82aea2c97f4.csv,Постуральный тремор,женский,61,on,1
+raw_data_41c11f2f-db48-11ec-83a3-e82aea2c97f4.csv,кинетический тремор,мужской,66,on,2
+raw_data_b7343e7d-495e-11ed-a781-e82aea2c97f4.csv,кинетический тремор,мужской,65,off,0
+raw_data_e98ad583-db57-11ec-b9be-e82aea2c97f4.csv,Постуральный тремор,женский,67,on,3
+raw_data_d0a2eb9b-f84b-11ec-aa88-b469216ca443.csv,Постуральный тремор,мужской,55,off,1
+raw_data_b2a311df-2ffc-11ed-aad4-c86000e163af.csv,кинетический тремор,мужской,63,off,1
+raw_data_fcb32e89-2205-11ed-96ab-b469216ca443.csv,кулак,мужской,23,off,1
+raw_data_76346443-c14e-11ec-b59d-e82aea2c97f4.csv,Пронация и супинация кисти,женский,69,off,3
+raw_data_28a92137-e56a-11ec-9ca7-b469216ca443.csv,Пронация и супинация кисти,женский,60,on,3
+raw_data_9435513b-e301-11ec-a4ba-b469216ca443.csv,Постуральный тремор,мужской,46,on,2
+raw_data_98d8b2a1-0360-11ed-8536-e82aea2c97f4.csv,кулак,мужской,60,off,3
+raw_data_49a78d89-76f5-11ed-a4bf-e82aea2c97f4.csv,постукивание пальцами,женский,71,on,3
+raw_data_912421cf-f6c1-11ec-8837-e82aea2c97f4.csv,кулак,женский,73,off,3
+raw_data_f200f3bc-34c9-11ed-a00b-e82aea2c97f4.csv,кинетический тремор,мужской,50,on,0
+raw_data_9daabd55-4940-11ed-93a3-e82aea2c97f4.csv,Постуральный тремор,женский,71,on,0
+raw_data_fc3c39b9-a5bf-11ec-b003-b469216ca443.csv,кинетический тремор,женский,23,off,1
+raw_data_86d5ddd7-3336-11ed-a9d1-c86000e163af.csv,кулак,мужской,57,on,1
+raw_data_f4eb18b8-a44e-11ec-9dd6-b469216ca443.csv,Постуральный тремор,мужской,23,off,2
+raw_data_a634eec3-2d05-11ed-93cc-e82aea2c97f4.csv,Постуральный тремор,женский,78,off,1
+raw_data_b35ee695-bfcc-11ec-a198-e82aea2c97f4.csv,кулак,женский,65,on,2
+raw_data_05d0c61f-af4b-11ec-842e-e82aea2c97f4.csv,постукивание пальцами,мужской,82,on,2
+raw_data_21efac95-64c4-11ed-a3ff-e82aea2c97f4.csv,Постуральный тремор,женский,67,off,0
+raw_data_51e102a1-0d69-11ed-b94d-80847c24eb6e.csv,Пронация и супинация кисти,мужской,78,on,2
+raw_data_42e6a208-34ef-11ed-bed3-e82aea2c97f4.csv,кулак,мужской,69,off,3
+raw_data_cd71170c-c6cf-11ec-b4e9-e82aea2c97f4.csv,Пронация и супинация кисти,мужской,69,on,1
+raw_data_fc6189cf-2449-11ed-b91b-b469216ca443.csv,Пронация и супинация кисти,мужской,75,off,0
+raw_data_32b265bb-396a-11ed-a291-b469216ca443.csv,кулак,мужской,23,off,4
+raw_data_1db9da89-aa68-11ec-a9c7-58a023d3f6d9.csv,постукивание пальцами,мужской,23,off,2
+raw_data_fb950bbb-1870-11ed-98fe-b469216ca443.csv,Постуральный тремор,женский,23,on,1
+raw_data_c256b979-1ee2-11ed-94d5-e82aea2c97f4.csv,Постуральный тремор,мужской,73,off,1
+raw_data_8e3300db-fc5b-11ec-a0fd-e82aea2c97f4.csv,кинетический тремор,мужской,72,off,3
+raw_data_31427893-b003-11ec-8c25-e82aea2c97f4.csv,постукивание пальцами,мужской,80,off,3
+raw_data_4d032985-c546-11ec-ae97-e82aea2c97f4.csv,кулак,женский,74,on,1
+raw_data_78055c8f-64c4-11ed-b69d-e82aea2c97f4.csv,кинетический тремор,женский,67,off,0
+raw_data_daeef77b-34f9-11ed-89a6-e82aea2c97f4.csv,кулак,мужской,73,off,0
+raw_data_f53faf7c-2f67-11ed-b366-e82aea2c97f4.csv,кулак,женский,66,on,1
+raw_data_d33e394c-2668-11ed-9f24-b474d352caff.csv,кинетический тремор,женский,62,off,1
+raw_data_a925cc9f-e060-11ec-9edc-ef54fcc0d655.csv,постукивание пальцами,женский,63,off,3
+raw_data_cf63ffb9-e071-11ec-945a-ef54fcc0d655.csv,постукивание пальцами,женский,63,off,2
+raw_data_7c9e6b0d-2dcf-11ed-8662-e82aea2c97f4.csv,кинетический тремор,мужской,67,on,0
+raw_data_5d4b2cf2-bef4-11ec-8949-b469216ca443.csv,Постуральный тремор,женский,23,off,4
+raw_data_0d02722b-c172-11ec-ac0c-e82aea2c97f4.csv,кулак,женский,66,on,2
+raw_data_7425b9db-495e-11ed-af48-e82aea2c97f4.csv,Постуральный тремор,мужской,65,off,0
+raw_data_2909ab31-db5f-11ec-bc34-b469216ca443.csv,постукивание пальцами,женский,23,on,3
+raw_data_e16112e9-2671-11ed-8ee7-b474d352caff.csv,Постуральный тремор,мужской,71,off,1
+raw_data_2ddf829f-5373-11ed-b02f-e82aea2c97f4.csv,кинетический тремор,женский,74,off,0
+raw_data_05a5bc55-ee2b-11ec-8dfd-94de80136624.csv,Пронация и супинация кисти,женский,64,on,3
+raw_data_7be7599b-e2fe-11ec-bb5e-b469216ca443.csv,Пронация и супинация кисти,мужской,46,on,2
+raw_data_0e951e4c-f7a2-11ec-a219-b469216ca443.csv,кулак,мужской,65,off,2
+raw_data_330a3665-12ed-11ed-a36e-c86000e163af.csv,кулак,женский,81,off,2
+raw_data_82809ce7-7d19-11ed-a40c-e82aea2c97f4.csv,кулак,женский,74,off,1
+raw_data_7c67cbe9-e0c0-11ec-b8d5-e82aea2c97f4.csv,кулак,мужской,64,off,3
+raw_data_d2ab5f79-6fcb-11ed-a857-e82aea2c97f4.csv,постукивание пальцами,мужской,83,off,2
+raw_data_cc228ed7-0cdd-11ed-a230-b469216ca443.csv,Постуральный тремор,мужской,75,off,1
+raw_data_ba4d10a5-f124-11ec-94d0-b469216ca443.csv,постукивание пальцами,мужской,60,off,1
+raw_data_d367344b-90c3-11ed-917e-e82aea2c97f4.csv,постукивание пальцами,0,0,off,2
+raw_data_753e2e01-2f75-11ed-a493-e82aea2c97f4.csv,Постуральный тремор,мужской,23,off,0
+raw_data_f2d5a3f7-6fc2-11ed-8472-e82aea2c97f4.csv,кулак,женский,54,on,2
+raw_data_48e7f3b9-2454-11ed-b5bd-e82aea2c97f4.csv,кинетический тремор,мужской,72,on,1
+raw_data_f387108d-2908-11ed-92f5-e82aea2c97f4.csv,Постуральный тремор,женский,23,off,2
+raw_data_b3f19481-b0e8-11ec-adfd-e82aea2c97f4.csv,Постуральный тремор,мужской,44,off,2
+raw_data_cc789a95-2cfb-11ed-8876-e82aea2c97f4.csv,постукивание пальцами,мужской,65,off,2
+raw_data_3e2de11c-4aee-11ed-8dee-e82aea2c97f4.csv,кулак,мужской,64,on,0
+raw_data_07c8fd9d-5453-11ed-bc63-e82aea2c97f4.csv,постукивание пальцами,женский,63,on,2
+raw_data_48cb7936-b0dd-11ec-8473-e82aea2c97f4.csv,постукивание пальцами,женский,55,off,2
+raw_data_f6a39f83-0f01-11ed-96a3-b469216ca443.csv,Постуральный тремор,мужской,23,on,2
+raw_data_6a0cce83-494e-11ed-bcdf-e82aea2c97f4.csv,кинетический тремор,мужской,62,off,0
+raw_data_f9e35e85-c6d1-11ec-9cb9-e82aea2c97f4.csv,постукивание пальцами,мужской,69,on,2
+raw_data_5c76a6e1-e2fe-11ec-bf07-b469216ca443.csv,Пронация и супинация кисти,мужской,46,on,3
+raw_data_3ebf985f-b6da-11ec-a6aa-58a023d3f6d9.csv,кулак,мужской,72,on,2
+raw_data_0bd8c99f-b0e8-11ec-ae8b-e82aea2c97f4.csv,постукивание пальцами,мужской,44,off,2
+raw_data_9a097241-2f5f-11ed-89f3-e82aea2c97f4.csv,кинетический тремор,мужской,74,off,0
+raw_data_aa44be67-2671-11ed-a0ed-b474d352caff.csv,Постуральный тремор,мужской,71,off,1
+raw_data_fc7c578f-5f43-11ed-9f71-e82aea2c97f4.csv,кинетический тремор,женский,67,on,0
+raw_data_5dfb54a5-34c9-11ed-ad71-e82aea2c97f4.csv,кулак,мужской,50,on,1
+raw_data_72e82a31-b0dd-11ec-9f4d-e82aea2c97f4.csv,кулак,женский,55,off,2
+raw_data_c3da544f-2ffd-11ed-ba24-c86000e163af.csv,постукивание пальцами,мужской,63,off,2
+raw_data_fc96c15d-f84e-11ec-a6ef-b469216ca443.csv,постукивание пальцами,мужской,55,off,2
+raw_data_9dc2ed77-c545-11ec-9cff-e82aea2c97f4.csv,кулак,женский,74,on,2
+raw_data_0a336d44-bfd0-11ec-a6cb-e82aea2c97f4.csv,Постуральный тремор,женский,65,on,2
+raw_data_d759ab38-b0ea-11ec-8a4d-e82aea2c97f4.csv,постукивание пальцами,женский,55,off,2
+raw_data_ea59ff69-f14c-11ec-b8e5-e82aea2c97f4.csv,кулак,женский,72,off,3
+raw_data_33f7d8df-e269-11ec-89e9-e82aea2c97f4.csv,кулак,женский,73,on,1
+raw_data_ffc6595f-81f0-11ed-a884-e82aea2c97f4.csv,постукивание пальцами,мужской,64,off,2
+raw_data_eea26525-21e6-11ed-bc42-b469216ca443.csv,кинетический тремор,женский,23,off,1
+raw_data_d75deb9f-81d3-11ed-b3fc-e82aea2c97f4.csv,Постуральный тремор,женский,74,off,0
+raw_data_7a4476a4-f14b-11ec-a9f0-e82aea2c97f4.csv,Постуральный тремор,женский,72,off,3
+raw_data_ca79eee5-7d1e-11ed-8ad7-e82aea2c97f4.csv,Постуральный тремор,женский,61,on,1
+raw_data_eaa1b34d-7d1d-11ed-8409-e82aea2c97f4.csv,кулак,женский,61,on,1
+raw_data_fca1b667-22b0-11ed-a472-b469216ca443.csv,кулак,женский,23,off,4
+raw_data_e9ffca7b-7d1e-11ed-9fc0-e82aea2c97f4.csv,кинетический тремор,женский,61,on,0
+raw_data_b4aad75b-08bf-11ed-9de6-b469216ca443.csv,Постуральный тремор,0,0,on,1
+raw_data_88f26b21-2cf2-11ed-9cfd-e82aea2c97f4.csv,постукивание пальцами,мужской,70,off,2
+raw_data_29c6b781-dbdf-11ec-98b6-9248d38b455f.csv,постукивание пальцами,мужской,23,off,2
+raw_data_9cafd3b1-2cf3-11ed-a174-e82aea2c97f4.csv,кинетический тремор,мужской,70,off,0
+raw_data_f2f506f6-c6cf-11ec-9acd-e82aea2c97f4.csv,Постуральный тремор,мужской,69,on,1
+raw_data_2abf05b1-e86e-11ec-9ad0-fd71ae554d63.csv,кинетический тремор,женский,63,off,0
+raw_data_b97c4fc9-245d-11ed-9dfa-e82aea2c97f4.csv,Постуральный тремор,женский,64,on,2
+raw_data_a1feb1f3-b4c9-11ec-84f3-b469216ca443.csv,Постуральный тремор,мужской,23,on,0
+raw_data_d6f070b7-e072-11ec-9e28-ef54fcc0d655.csv,Пронация и супинация кисти,женский,63,off,1
+raw_data_c2ec0eaf-6a48-11ed-9462-e82aea2c97f4.csv,постукивание пальцами,мужской,62,on,2
+raw_data_c5375121-246b-11ed-be39-e82aea2c97f4.csv,кинетический тремор,мужской,23,on,3
+raw_data_c9b9c73a-3336-11ed-b3c3-c86000e163af.csv,Постуральный тремор,мужской,57,on,0
+raw_data_ffde4759-22a2-11ed-ae7d-b474d352caff.csv,Постуральный тремор,женский,23,on,1
+raw_data_28409132-e86d-11ec-9510-fd71ae554d63.csv,постукивание пальцами,женский,63,off,1
+raw_data_d8eaf6c1-1edc-11ed-bd2b-e82aea2c97f4.csv,постукивание пальцами,мужской,73,off,3
+raw_data_d6452c0b-e0bf-11ec-994a-e82aea2c97f4.csv,кулак,мужской,64,off,3
+raw_data_7bc0a209-64bc-11ed-a719-e82aea2c97f4.csv,Постуральный тремор,женский,74,off,1
+raw_data_1cdb7403-29ed-11ed-b9e8-e82aea2c97f4.csv,Постуральный тремор,мужской,76,off,0
+raw_data_3e330d2f-0361-11ed-876b-e82aea2c97f4.csv,кулак,мужской,60,off,3
+raw_data_d3a8316f-b0ec-11ec-bb3c-e82aea2c97f4.csv,кулак,женский,55,off,2
+raw_data_bdbf9b45-c544-11ec-b243-e82aea2c97f4.csv,кинетический тремор,женский,74,on,2
+raw_data_1b11b769-12ed-11ed-84b7-c86000e163af.csv,постукивание пальцами,женский,81,off,2
+raw_data_677cabdf-12ec-11ed-a1d6-c86000e163af.csv,кинетический тремор,женский,81,off,0
+raw_data_673e8cfb-3d65-11ed-a80c-b469216ca443.csv,Постуральный тремор,женский,23,on,0
+raw_data_90f115c3-035f-11ed-a83a-e82aea2c97f4.csv,Постуральный тремор,мужской,60,off,3
+raw_data_89a8159d-85cb-11ed-a875-e82aea2c97f4.csv,Постуральный тремор,мужской,70,off,0
+raw_data_e59dbe8f-4940-11ed-99ef-e82aea2c97f4.csv,кинетический тремор,женский,71,on,0
+raw_data_cb25991a-2453-11ed-8217-e82aea2c97f4.csv,Постуральный тремор,мужской,72,on,1
+raw_data_9abd968d-5f43-11ed-8024-e82aea2c97f4.csv,Пронация и супинация кисти,женский,67,on,1
+raw_data_1f7e8a77-a998-11ec-8299-58a023d3f6d9.csv,кулак,мужской,63,on,2
+raw_data_1126ebc9-505e-11ed-b6b3-e82aea2c97f4.csv,постукивание пальцами,женский,63,off,1
+raw_data_27f8b908-e062-11ec-965f-ef54fcc0d655.csv,кинетический тремор,женский,63,off,0
+raw_data_63331f0a-2671-11ed-bbd6-b474d352caff.csv,Пронация и супинация кисти,мужской,71,off,4
+raw_data_fd8a47d5-0d5c-11ed-9264-80847c24eb6e.csv,постукивание пальцами,мужской,61,on,3
+raw_data_38e1a71d-e579-11ec-924b-b469216ca443.csv,кинетический тремор,женский,64,off,0
+raw_data_f3999c27-b0ea-11ec-80a2-e82aea2c97f4.csv,кулак,женский,55,off,1
+raw_data_981ffba1-db4d-11ec-aa41-e82aea2c97f4.csv,кинетический тремор,женский,42,on,3
+raw_data_eee404df-8ef7-11ec-857b-58a023d3f6d9.csv,кулак,женский,69,on,2
+raw_data_3f68f241-aa68-11ec-85a2-58a023d3f6d9.csv,кулак,мужской,23,off,2
+raw_data_038ac71f-e300-11ec-9d35-b469216ca443.csv,постукивание пальцами,мужской,46,on,3
+raw_data_29bd0bb7-c6d1-11ec-ab63-e82aea2c97f4.csv,постукивание пальцами,мужской,69,on,2
+raw_data_0b7c1d21-f776-11ec-9969-b469216ca443.csv,кулак,женский,67,on,1
+raw_data_6d93d694-bfcc-11ec-bde5-e82aea2c97f4.csv,постукивание пальцами,женский,65,on,2
+raw_data_971e4233-dbdf-11ec-8c9b-9248d38b455f.csv,кулак,мужской,23,off,2
+raw_data_42d9ae7a-f775-11ec-a223-b469216ca443.csv,кинетический тремор,женский,67,on,1
+raw_data_4ddbb06f-1871-11ed-a999-b469216ca443.csv,кинетический тремор,женский,23,on,1
+raw_data_c538a152-e62a-11ec-a3b6-b469216ca443.csv,кулак,мужской,71,on,3
+raw_data_e90f02cd-6a5c-11ed-92c8-e82aea2c97f4.csv,кинетический тремор,мужской,73,on,0
+raw_data_c3ad72bf-b4c9-11ec-b17b-b469216ca443.csv,Постуральный тремор,мужской,23,on,1
+raw_data_87254189-ee2b-11ec-b3fc-94de80136624.csv,Пронация и супинация кисти,женский,64,on,2
+raw_data_90b5e7b9-4579-11ed-8fb0-e82aea2c97f4.csv,постукивание пальцами,мужской,72,on,2
+raw_data_d8f60595-2dcb-11ed-8fa4-e82aea2c97f4.csv,кулак,мужской,62,off,3
+raw_data_ee2fc685-90c3-11ed-aaaa-e82aea2c97f4.csv,кулак,0,0,off,1
+raw_data_da82aceb-244a-11ed-a5de-b469216ca443.csv,кинетический тремор,мужской,75,off,2
+raw_data_43dd8073-b0f0-11ec-89a1-e82aea2c97f4.csv,кулак,мужской,44,off,2
+raw_data_8e9794eb-e062-11ec-9f80-ef54fcc0d655.csv,кинетический тремор,женский,63,off,0
+raw_data_4bccf49f-3277-11ed-bca8-c86000e163af.csv,кулак,женский,65,off,1
+raw_data_658223f6-c6ea-11ec-8fec-e82aea2c97f4.csv,кулак,женский,64,off,3
+raw_data_27b62aef-f84f-11ec-8750-b469216ca443.csv,кулак,мужской,55,off,1
+raw_data_d0319c7b-1ed3-11ed-a3c0-e82aea2c97f4.csv,постукивание пальцами,мужской,77,on,2
+raw_data_7359bb95-2667-11ed-93e6-b474d352caff.csv,кулак,женский,62,off,4
+raw_data_d16b6956-a8fe-11ec-bef5-b469216ca443.csv,постукивание пальцами,женский,23,off,2
+raw_data_b12bb633-3277-11ed-be11-c86000e163af.csv,постукивание пальцами,женский,65,off,2
+raw_data_947cf8c3-1872-11ed-9c96-b469216ca443.csv,постукивание пальцами,женский,23,on,1
+raw_data_fdc448cb-38c3-11ed-be37-c86000e163af.csv,постукивание пальцами,мужской,47,on,3
+raw_data_f2ed8e5f-e578-11ec-9de8-b469216ca443.csv,Пронация и супинация кисти,женский,64,off,1
+raw_data_83052121-81d3-11ed-b15b-e82aea2c97f4.csv,постукивание пальцами,женский,74,off,1
+raw_data_944e5831-e0be-11ec-ba18-e82aea2c97f4.csv,Постуральный тремор,мужской,64,off,2
+raw_data_ce66272b-495d-11ed-b32f-e82aea2c97f4.csv,постукивание пальцами,мужской,65,off,3
+raw_data_cd7abff9-db58-11ec-99dd-e82aea2c97f4.csv,постукивание пальцами,женский,67,on,2
+raw_data_75ea9fc9-76d6-11ed-bb12-e82aea2c97f4.csv,постукивание пальцами,мужской,67,off,2
+raw_data_b922ebf3-34ef-11ed-93d7-e82aea2c97f4.csv,Постуральный тремор,мужской,69,off,1
+raw_data_a2bfd58d-3421-11ed-9818-e82aea2c97f4.csv,кинетический тремор,мужской,63,on,0
+raw_data_e8433a6f-59c4-11ed-b547-e82aea2c97f4.csv,кулак,женский,50,off,2
+raw_data_272fbb53-b0db-11ec-b43b-e82aea2c97f4.csv,кулак,мужской,44,off,3
+raw_data_26953a65-6fc3-11ed-9d5c-e82aea2c97f4.csv,Постуральный тремор,женский,54,on,0
+raw_data_ddc01c9b-a99a-11ec-89d6-58a023d3f6d9.csv,Постуральный тремор,мужской,63,on,1
+raw_data_d2d584cf-34c9-11ed-8ed0-e82aea2c97f4.csv,Постуральный тремор,мужской,50,on,1
+raw_data_57ece201-db5f-11ec-8f84-b469216ca443.csv,кулак,женский,23,on,3
+raw_data_63292583-f156-11ec-a6aa-e82aea2c97f4.csv,кулак,женский,72,off,3
+raw_data_cdeb0383-2f5e-11ed-9989-e82aea2c97f4.csv,постукивание пальцами,мужской,74,off,3
+raw_data_d19d23f9-aa63-11ec-a7f7-b469216ca443.csv,Постуральный тремор,мужской,23,off,0
+raw_data_f1ba9960-c156-11ec-b38e-e82aea2c97f4.csv,кулак,женский,65,off,3
+raw_data_987f2f9f-1f82-11ed-805b-b469216ca443.csv,постукивание пальцами,мужской,23,off,3
+raw_data_aef0ac2b-a9a1-11ec-aacc-b469216ca443.csv,кинетический тремор,мужской,23,off,1
+raw_data_589e94f9-db48-11ec-aa8d-e82aea2c97f4.csv,кинетический тремор,мужской,66,on,2
+raw_data_70130cdb-1f83-11ed-ba9c-b469216ca443.csv,постукивание пальцами,мужской,23,off,3
+raw_data_537ea50b-e643-11ec-997f-e82aea2c97f4.csv,постукивание пальцами,мужской,66,on,2
+raw_data_323804f7-b4cb-11ec-9ab2-b469216ca443.csv,кулак,мужской,23,on,2
+raw_data_2104bcf9-12ee-11ed-8b6c-c86000e163af.csv,Постуральный тремор,женский,81,off,2
+raw_data_ece5c1d3-e0be-11ec-b612-ef54fcc0d655.csv,кулак,женский,56,off,3
+raw_data_8e48182b-6fc2-11ed-b5bc-e82aea2c97f4.csv,Постуральный тремор,женский,54,on,0
+raw_data_25b3401d-e300-11ec-8d44-b469216ca443.csv,кулак,мужской,46,on,4
+raw_data_aa7c257d-1de7-11ed-83c0-b469216ca443.csv,кулак,мужской,23,on,0
+raw_data_fbaeea8d-76e0-11ed-a75f-e82aea2c97f4.csv,кинетический тремор,женский,72,off,0
+raw_data_c7916493-22a3-11ed-9b5b-b474d352caff.csv,постукивание пальцами,женский,23,on,3
+raw_data_d5af626b-e871-11ec-bc28-fd71ae554d63.csv,кинетический тремор,женский,56,off,0
+raw_data_35011e31-6fc2-11ed-b6b2-e82aea2c97f4.csv,постукивание пальцами,женский,54,on,3
+raw_data_8e5bbb1d-3a60-11ed-85a1-b469216ca443.csv,Постуральный тремор,0,0,off,1
+raw_data_c3db8ae1-0d68-11ed-940d-80847c24eb6e.csv,постукивание пальцами,мужской,78,on,2
+raw_data_484b67d5-e62c-11ec-98d4-b469216ca443.csv,Постуральный тремор,мужской,71,on,2
+raw_data_4b7d67d5-2cf3-11ed-bc81-e82aea2c97f4.csv,Постуральный тремор,мужской,70,off,2
+raw_data_ea2c09bd-ae7b-11ec-b555-b469216ca443.csv,кинетический тремор,женский,23,off,1
+raw_data_62f3400f-eec1-11ec-866f-3c58c2c468f4.csv,постукивание пальцами,мужской,22,on,0
+raw_data_20595efb-29de-11ed-b4ce-88a4c211973d.csv,постукивание пальцами,0,0,on,0
+raw_data_36891465-e0c0-11ec-b55d-ef54fcc0d655.csv,Пронация и супинация кисти,женский,56,off,4
+raw_data_baff55f3-29f2-11ed-9323-e82aea2c97f4.csv,кинетический тремор,женский,70,on,0
+raw_data_41e75627-aa63-11ec-b541-b469216ca443.csv,Пронация и супинация кисти,мужской,23,off,4
+raw_data_f4b599f3-3d78-11ed-9173-b469216ca443.csv,кулак,женский,23,off,3
+raw_data_5ff3621b-3e44-11ed-a73b-e82aea2c97f4.csv,постукивание пальцами,мужской,58,off,2
+raw_data_bdedd1db-3421-11ed-b94c-e82aea2c97f4.csv,кинетический тремор,мужской,63,on,0
+raw_data_3bfee49d-76e0-11ed-89c6-e82aea2c97f4.csv,Постуральный тремор,женский,72,off,0
+raw_data_94a87fd3-3276-11ed-8b2b-c86000e163af.csv,кинетический тремор,женский,65,off,2
+raw_data_001d11b5-c541-11ec-a570-e82aea2c97f4.csv,постукивание пальцами,мужской,60,on,1
+raw_data_1d15e78d-2d0d-11ed-8826-e82aea2c97f4.csv,кинетический тремор,мужской,65,off,0
+raw_data_9fea5c05-59c5-11ed-b4ea-e82aea2c97f4.csv,кинетический тремор,женский,50,off,0
+raw_data_d1212193-2379-11ed-b221-b469216ca443.csv,Постуральный тремор,мужской,23,off,4
+raw_data_e7f37984-2d0c-11ed-85c2-e82aea2c97f4.csv,Постуральный тремор,мужской,65,off,1
+raw_data_6b67eeeb-e0c0-11ec-b38d-e82aea2c97f4.csv,постукивание пальцами,мужской,64,off,3
+raw_data_98fca41d-2dce-11ed-9a16-e82aea2c97f4.csv,постукивание пальцами,мужской,67,on,1
+raw_data_eb4f9b05-7c5e-11ed-9dcc-e82aea2c97f4.csv,Постуральный тремор,мужской,67,on,0
+raw_data_5129b645-3975-11ed-84a5-c86000e163af.csv,кинетический тремор,мужской,51,on,2
+raw_data_9624215b-34ef-11ed-9cb1-e82aea2c97f4.csv,Постуральный тремор,мужской,69,off,2
+raw_data_a28c23eb-2452-11ed-a3f2-e82aea2c97f4.csv,кулак,мужской,72,on,3
+raw_data_d42eea83-246a-11ed-ba50-e82aea2c97f4.csv,кулак,мужской,23,on,4
+raw_data_91c45255-544a-11ed-88f4-e82aea2c97f4.csv,кинетический тремор,мужской,62,off,0
+raw_data_9349051f-5449-11ed-95d9-e82aea2c97f4.csv,постукивание пальцами,мужской,62,off,3
+raw_data_fb63d65b-0caf-11ed-bb91-b469216ca443.csv,постукивание пальцами,женский,23,on,4
+raw_data_ede0ea69-6a48-11ed-ad9a-e82aea2c97f4.csv,кулак,мужской,62,on,1
+raw_data_b388718b-21e7-11ed-9b07-b469216ca443.csv,постукивание пальцами,женский,23,off,4
+raw_data_9567bda9-e870-11ec-b0eb-fd71ae554d63.csv,постукивание пальцами,женский,56,off,2
+raw_data_dbaf02e7-2911-11ed-8dc2-e82aea2c97f4.csv,Постуральный тремор,женский,71,off,2
+raw_data_8445d3e5-38c4-11ed-9845-c86000e163af.csv,кулак,мужской,47,on,3
+raw_data_9d347704-5442-11ed-bef2-e82aea2c97f4.csv,кинетический тремор,мужской,70,on,0
+raw_data_88724357-4aee-11ed-83b1-e82aea2c97f4.csv,Постуральный тремор,мужской,64,on,0
+raw_data_7e760c49-2f5f-11ed-9a56-e82aea2c97f4.csv,Постуральный тремор,мужской,74,off,0
+raw_data_e6fc2531-c14b-11ec-a075-e82aea2c97f4.csv,постукивание пальцами,женский,69,off,3
+raw_data_811ac28d-455e-11ed-8218-e82aea2c97f4.csv,кулак,мужской,74,on,3
+raw_data_aa42f1d7-035f-11ed-9995-e82aea2c97f4.csv,кинетический тремор,мужской,60,off,3
+raw_data_ee330439-1231-11ed-bbfc-b469216ca443.csv,постукивание пальцами,мужской,62,off,3
+raw_data_756f099b-2f68-11ed-bdbc-e82aea2c97f4.csv,кинетический тремор,женский,66,on,0
+raw_data_18ed27ef-01b2-11ed-a077-916034403430.csv,Постуральный тремор,женский,58,on,0
+raw_data_de023eeb-e0e0-11ec-a054-e82aea2c97f4.csv,постукивание пальцами,женский,64,on,3
+raw_data_85d4808b-e061-11ec-a32f-ef54fcc0d655.csv,Постуральный тремор,женский,63,off,0
+raw_data_a893fecf-5449-11ed-b18d-e82aea2c97f4.csv,постукивание пальцами,мужской,62,off,2
+raw_data_c0e82882-2cf2-11ed-ab95-e82aea2c97f4.csv,кулак,мужской,70,off,2
+raw_data_c4cbbd7d-f776-11ec-a194-b469216ca443.csv,кулак,женский,67,on,3
+raw_data_e2c01774-76e0-11ed-a1dc-e82aea2c97f4.csv,Постуральный тремор,женский,72,off,0
+raw_data_3847ac43-e0c1-11ec-9ba1-ef54fcc0d655.csv,кинетический тремор,женский,56,off,0
+raw_data_62153627-dbe0-11ec-b359-9248d38b455f.csv,кинетический тремор,мужской,23,off,0
+raw_data_b37b896b-a44d-11ec-a5be-b469216ca443.csv,кулак,мужской,23,off,2
+raw_data_c220be3b-afea-11ec-8583-58a023d3f6d9.csv,Постуральный тремор,мужской,68,on,0
+raw_data_62bb9d53-e888-11ec-be9b-b469216ca443.csv,Постуральный тремор,женский,73,off,1
+raw_data_ae58f379-6fd9-11ed-95d2-e82aea2c97f4.csv,кулак,мужской,63,on,1
+raw_data_ec519a0d-2f58-11ed-8a78-c86000e163af.csv,кулак,мужской,70,off,1
+raw_data_e04a79f1-505e-11ed-bdac-e82aea2c97f4.csv,кинетический тремор,женский,63,off,0
+raw_data_94c42adf-5f3e-11ed-a991-e82aea2c97f4.csv,Постуральный тремор,мужской,61,off,0
+raw_data_8efb0e0b-b097-11ec-bafb-58a023d3f6d9.csv,Пронация и супинация кисти,мужской,71,on,3
+raw_data_d28b8c6b-e0c1-11ec-a375-e82aea2c97f4.csv,Пронация и супинация кисти,женский,72,on,1
+raw_data_a4e36beb-0d5e-11ed-b142-80847c24eb6e.csv,кинетический тремор,мужской,61,on,0
+raw_data_9d809d13-e0c2-11ec-8dd2-e82aea2c97f4.csv,кинетический тремор,женский,72,on,1
+raw_data_1a025465-af4e-11ec-b914-e82aea2c97f4.csv,кулак,мужской,82,on,2
+raw_data_b6759896-f84d-11ec-a123-b469216ca443.csv,Пронация и супинация кисти,мужской,55,off,2
+raw_data_63edadbb-76f5-11ed-bde7-e82aea2c97f4.csv,кулак,женский,71,on,3
+raw_data_7a18aa25-e0be-11ec-9f2f-e82aea2c97f4.csv,Постуральный тремор,мужской,64,off,3
+raw_data_e8e0b2a5-aa72-11ec-984d-58a023d3f6d9.csv,постукивание пальцами,мужской,23,off,0
+raw_data_e687ad8f-266f-11ed-9aa6-b474d352caff.csv,постукивание пальцами,мужской,71,off,3
+raw_data_cdb9c5eb-7d1d-11ed-9836-e82aea2c97f4.csv,постукивание пальцами,женский,61,on,1
+raw_data_b13e218b-2f49-11ed-91fd-c86000e163af.csv,Постуральный тремор,женский,51,off,2
+raw_data_35e84c4b-afea-11ec-b980-58a023d3f6d9.csv,Пронация и супинация кисти,мужской,68,on,2
+raw_data_235f5d2b-2470-11ed-8f95-e82aea2c97f4.csv,Постуральный тремор,0,0,on,3
+raw_data_e5c06eac-f1f4-11ec-bd05-b469216ca443.csv,Пронация и супинация кисти,мужской,55,off,3
+raw_data_0c973243-2670-11ed-99cb-b474d352caff.csv,кулак,мужской,71,off,2
+raw_data_dcc90c09-e0be-11ec-a9b6-e82aea2c97f4.csv,кинетический тремор,мужской,64,off,3
+raw_data_3ed02cae-2d0c-11ed-b540-e82aea2c97f4.csv,постукивание пальцами,мужской,65,off,2
+raw_data_5f2cb4a1-2f68-11ed-abd7-e82aea2c97f4.csv,Постуральный тремор,женский,66,on,0
+raw_data_49d47b6b-eec4-11ec-9963-3c58c2c468f4.csv,кулак,мужской,22,on,0
+raw_data_671698c1-e008-11ec-b807-b469216ca443.csv,Постуральный тремор,мужской,65,on,1
+raw_data_621419cb-b005-11ec-a448-e82aea2c97f4.csv,Постуральный тремор,мужской,80,off,3
+raw_data_8ad5840d-e62b-11ec-ad1a-b469216ca443.csv,постукивание пальцами,мужской,71,on,3
+raw_data_eb71770d-495d-11ed-bd3e-e82aea2c97f4.csv,кулак,мужской,65,off,3
+raw_data_9585c63b-a99a-11ec-8960-58a023d3f6d9.csv,Постуральный тремор,мужской,63,on,2
+raw_data_7d9e38e5-db4d-11ec-a1ea-e82aea2c97f4.csv,кинетический тремор,женский,42,on,3
+raw_data_13e21a31-5f44-11ed-b6b3-e82aea2c97f4.csv,кинетический тремор,женский,67,on,0
+raw_data_04e16acd-5f43-11ed-a77f-e82aea2c97f4.csv,постукивание пальцами,женский,67,on,2
+raw_data_e76751e5-3336-11ed-bb49-c86000e163af.csv,Постуральный тремор,мужской,57,on,1
+raw_data_7786b21d-08c1-11ed-8dcf-b469216ca443.csv,кулак,0,0,on,1
+raw_data_5f57ffb1-2cea-11ed-a76d-e82aea2c97f4.csv,Постуральный тремор,мужской,70,off,1
+raw_data_324f811b-455e-11ed-a1e8-e82aea2c97f4.csv,постукивание пальцами,мужской,74,on,3
+raw_data_ad77f305-2668-11ed-8514-b474d352caff.csv,Постуральный тремор,женский,62,off,1
+raw_data_3ad4c35b-2672-11ed-976d-b474d352caff.csv,кинетический тремор,мужской,71,off,1
+raw_data_b34ad215-a988-11ec-8b88-58a023d3f6d9.csv,постукивание пальцами,женский,74,on,3
+raw_data_e9ec376b-4aee-11ed-8ce6-e82aea2c97f4.csv,кинетический тремор,мужской,64,on,0
+raw_data_c327801d-b6d9-11ec-8b93-58a023d3f6d9.csv,постукивание пальцами,мужской,72,on,1
+raw_data_565bbc0b-6fc2-11ed-ab58-e82aea2c97f4.csv,кулак,женский,54,on,3
+raw_data_a38271af-1232-11ed-b9bf-b469216ca443.csv,Пронация и супинация кисти,мужской,62,off,4
+raw_data_4b972a4c-ec9b-11ec-84ba-e82aea2c97f4.csv,Постуральный тремор,мужской,47,off,3
+raw_data_dc86883b-2dce-11ed-93ef-e82aea2c97f4.csv,кулак,мужской,67,on,1
+raw_data_6de8bdc3-aa73-11ec-84ee-58a023d3f6d9.csv,Пронация и супинация кисти,мужской,23,off,1
+raw_data_b892df0f-2204-11ed-bf51-b469216ca443.csv,Постуральный тремор,мужской,23,off,1
+raw_data_4597fcc9-f155-11ec-9cc7-e82aea2c97f4.csv,Постуральный тремор,женский,72,off,3
+raw_data_d77ea473-237b-11ed-957f-b469216ca443.csv,кулак,мужской,23,off,4
+raw_data_36029143-2668-11ed-a4d3-b474d352caff.csv,Пронация и супинация кисти,женский,62,off,4
+raw_data_2a575993-ebca-11ec-982b-e82aea2c97f4.csv,Пронация и супинация кисти,женский,67,on,2
+raw_data_a59b2f89-c544-11ec-968b-e82aea2c97f4.csv,кинетический тремор,женский,74,on,2
+raw_data_63188c41-2dd3-11ed-a44b-e82aea2c97f4.csv,постукивание пальцами,мужской,74,on,1
+raw_data_a18e5065-2cf7-11ed-9cae-e82aea2c97f4.csv,Постуральный тремор,женский,78,off,2
+raw_data_f43a1b2b-2915-11ed-a91e-c86000e163af.csv,кулак,мужской,71,off,3
+raw_data_861131f6-2d05-11ed-af7a-e82aea2c97f4.csv,кинетический тремор,женский,78,off,0
+raw_data_de046e2b-22b0-11ed-98cc-b469216ca443.csv,постукивание пальцами,женский,23,off,4
+raw_data_df82fecd-85cb-11ed-aa8e-e82aea2c97f4.csv,кулак,мужской,70,off,0
+raw_data_eee27d4d-a999-11ec-8bfe-58a023d3f6d9.csv,Пронация и супинация кисти,мужской,63,on,3
+raw_data_372d2cc9-c6d0-11ec-b6ae-e82aea2c97f4.csv,кинетический тремор,мужской,69,on,2
+raw_data_0aad2557-e572-11ec-acab-b469216ca443.csv,кулак,женский,60,on,3
+raw_data_b0c4045d-e57a-11ec-831d-b469216ca443.csv,постукивание пальцами,женский,64,off,4
+raw_data_7b82cd0d-ec9b-11ec-bf72-e82aea2c97f4.csv,Постуральный тремор,мужской,47,off,3
+raw_data_fcab731f-c6e8-11ec-b08c-e82aea2c97f4.csv,кинетический тремор,женский,64,off,2
+raw_data_186dfd2b-3336-11ed-ae2f-c86000e163af.csv,кулак,мужской,57,on,2
+raw_data_c55bb5fd-c154-11ec-93b5-e82aea2c97f4.csv,кинетический тремор,женский,65,off,3
+raw_data_85facb29-2f49-11ed-9a9d-c86000e163af.csv,Постуральный тремор,женский,51,off,1
+raw_data_b0f9dd85-21e6-11ed-a81e-b469216ca443.csv,Постуральный тремор,женский,23,off,1
+raw_data_40eab7a1-5f43-11ed-b9b6-e82aea2c97f4.csv,кулак,женский,67,on,1
+raw_data_04c424d3-aa73-11ec-bd57-58a023d3f6d9.csv,кулак,мужской,23,off,1
+raw_data_5051c8c5-c156-11ec-866c-e82aea2c97f4.csv,кулак,женский,65,off,2
+raw_data_8d1fc03b-e86d-11ec-aad3-fd71ae554d63.csv,Пронация и супинация кисти,женский,63,off,3
+raw_data_6072ca95-7c5e-11ed-8914-e82aea2c97f4.csv,постукивание пальцами,мужской,67,on,1
+raw_data_2c722543-b0e8-11ec-9e43-e82aea2c97f4.csv,кулак,мужской,44,off,3
+raw_data_bbeffb77-e0c3-11ec-ae0d-e82aea2c97f4.csv,кулак,женский,72,on,3
+raw_data_0644deb9-b1b2-11ec-b84b-b469216ca443.csv,Постуральный тремор,женский,23,on,1
+raw_data_95787086-76e0-11ed-bae5-e82aea2c97f4.csv,постукивание пальцами,женский,72,off,1
+raw_data_f8b121d7-db5d-11ec-84a3-b469216ca443.csv,постукивание пальцами,женский,23,on,3
+raw_data_baafbf4f-c204-11ec-9c74-b469216ca443.csv,Постуральный тремор,мужской,23,off,0
+raw_data_85bbd069-fc5a-11ec-9488-e82aea2c97f4.csv,кулак,мужской,72,off,3
+raw_data_fb34a665-81d3-11ed-acd8-e82aea2c97f4.csv,кинетический тремор,женский,74,off,0
+raw_data_9dc1c3ab-f901-11ec-bdce-b469216ca443.csv,постукивание пальцами,женский,70,off,3
+raw_data_d23cc0af-3975-11ed-b08f-c86000e163af.csv,кулак,мужской,51,on,2
+raw_data_329ef855-a8d3-11ec-80bd-b469216ca443.csv,Пронация и супинация кисти,мужской,23,off,3
+raw_data_d477e203-2204-11ed-a61a-b469216ca443.csv,Постуральный тремор,мужской,23,off,2
+raw_data_a06f009e-246f-11ed-bc5d-e82aea2c97f4.csv,кулак,0,0,on,2
+raw_data_7bc0e743-22a2-11ed-a7fe-b474d352caff.csv,Пронация и супинация кисти,женский,23,on,2
+raw_data_ea8a3e61-76f4-11ed-8e1a-e82aea2c97f4.csv,Постуральный тремор,женский,71,on,0
+raw_data_73904405-c206-11ec-b927-b469216ca443.csv,кулак,мужской,23,off,2
+raw_data_beb3794f-b6db-11ec-ab28-58a023d3f6d9.csv,кинетический тремор,мужской,72,on,1
+raw_data_aa16a6e4-2907-11ed-b32a-e82aea2c97f4.csv,кулак,женский,23,off,3
+raw_data_42ae6cd3-12ee-11ed-b87b-c86000e163af.csv,Постуральный тремор,женский,81,off,2
+raw_data_064dfe8a-b0e9-11ec-a897-e82aea2c97f4.csv,кинетический тремор,мужской,44,off,2
+raw_data_6f05bc94-c154-11ec-927f-e82aea2c97f4.csv,Постуральный тремор,женский,65,off,3
+raw_data_48295d25-2ddc-11ed-a5dc-e82aea2c97f4.csv,кулак,женский,70,off,2
+raw_data_d1a0e1e9-dbde-11ec-a19c-9248d38b455f.csv,постукивание пальцами,мужской,23,off,3
+raw_data_601aaadc-c15d-11ec-91ca-e82aea2c97f4.csv,постукивание пальцами,женский,65,off,1
+raw_data_b67e3497-76f5-11ed-9f74-e82aea2c97f4.csv,кинетический тремор,женский,71,on,0
+raw_data_57c3722b-e579-11ec-a370-b469216ca443.csv,кинетический тремор,женский,64,off,1
+raw_data_aee05d9b-6fc2-11ed-83ce-e82aea2c97f4.csv,кинетический тремор,женский,54,on,0
+raw_data_22e34513-08c0-11ed-ab52-b469216ca443.csv,кинетический тремор,0,0,on,1
+raw_data_c2384ee5-aa68-11ec-a599-58a023d3f6d9.csv,Постуральный тремор,мужской,23,off,1
+raw_data_f38b4669-ee2b-11ec-9119-94de80136624.csv,Постуральный тремор,женский,64,on,0
+raw_data_17bee7e7-2837-11ed-ad70-e82aea2c97f4.csv,кулак,мужской,69,off,2
+raw_data_55496997-6fd9-11ed-b2a4-e82aea2c97f4.csv,Постуральный тремор,мужской,63,on,0
+raw_data_712bee8b-6fcc-11ed-8526-e82aea2c97f4.csv,постукивание пальцами,мужской,83,off,1
+raw_data_2002c55b-1c65-11ed-b3e1-b469216ca443.csv,постукивание пальцами,мужской,23,off,2
+raw_data_e454ecdf-6fd9-11ed-8c3e-e82aea2c97f4.csv,Постуральный тремор,мужской,63,on,0
+raw_data_ed2a29d7-c16e-11ec-b4b8-e82aea2c97f4.csv,Постуральный тремор,женский,66,on,3
+raw_data_f4a07d6b-64c3-11ed-aa07-e82aea2c97f4.csv,Постуральный тремор,женский,67,off,0
+raw_data_c00aef37-0d5e-11ed-898c-80847c24eb6e.csv,кинетический тремор,мужской,61,on,0
+raw_data_f3bb1bf3-1c63-11ed-8f50-b469216ca443.csv,Постуральный тремор,мужской,23,off,0
